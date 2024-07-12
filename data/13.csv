@@ -1,0 +1,21 @@
+Id,Item,Price,Veg/Non-Veg,Quantity
+1,McAloo Tikki Burger,50,Veg,50
+2,McVeggie Burger,65,Veg,60
+3,McSpicy Paneer Burger,85,Veg,70
+4,Veg Maharaja Mac,150,Veg,40
+5,Filet-O-Fish Burger,100,Non-Veg,56
+6,McChicken Burger,70,Non-Veg,78
+7,McSpicy Chicken Burger,90,Non-Veg,43
+8,Chicken Maharaja Mac,160,Non-Veg,65
+9,McEgg Burger,60,Non-Veg,78
+10,BigSpicy Chicken Wrap,110,Non-Veg,98
+11,BigSpicy Paneer Wrap,95,Veg,55
+12,McVeggie Wrap,80,Veg,43
+13,McChicken Wrap,90,Non-Veg,45
+14,Veg Pizza McPuff,40,Veg,67
+15,Chicken McPuff,45,Non-Veg,87
+16,McAloo Wrap,60,Veg,45
+17,Masala Wedges,50,Veg,67
+18,Chicken McNuggets (6 pcs),120,Non-Veg,43
+19,French Fries (Regular),60,Veg,65
+20,Soft Serve Cone,25,Veg,65

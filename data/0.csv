@@ -1,0 +1,22 @@
+Id,Item,Price,Type,QuaEspresso
+1,Espresso,50,Veg,48
+2,Americano,60,Veg,54
+3,Cappuccino,70,Veg,69
+4,Latte,80,Veg,34
+5,Macchiato,65,Veg,53
+6,Mocha,75,Veg,78
+7,Flat White,85,Veg,43
+8,Hot Chocolate,90,Veg,65
+9,Tea,40,Veg,77
+
+10,Iced Coffee,70,Veg,98
+11,Fruit Smoothie,80,Veg,55
+12,Veggie Sandwich,100,Veg,42
+13,Grilled Cheese Sandwich,110,Veg,45
+14,Chicken Sandwich,120,Non-Veg,67
+15,Tuna Sandwich,110,Non-Veg,87
+16,Caesar Salad,90,Veg,43
+17,Greek Salad,95,Veg,65
+18,Chicken Caesar Salad,120,Non-Veg,41
+19,Pasta Salad,120,Veg,18
+20,Fruit Salad,80,Veg,44

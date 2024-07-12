@@ -1,0 +1,21 @@
+Id,Name,Price,FoodType,Quantity
+1,Margherita Pizza,80,Veg,50
+2,Pepperoni Pizza,80,Veg,60
+3,Veggie Supreme Pizza,80,Veg,70
+4,Chicken Supreme Pizza,80,Non-Veg,40
+5,BBQ Chicken Pizza,80,Non-Veg,56
+6,Extravaganzza Pizza,80,Veg,78
+7,Hawaiian Pizza,80,Veg,43
+8,Cheese Burst Pizza,80,Veg,65
+9,Farmhouse Pizza,80,Veg,78
+10,Mexican Green Wave Pizza,80,Veg,98
+11,Paneer Makhani Pizza,80,Veg,55
+12,Non-Veg Supreme Pizza,80,Non-Veg,41
+13,Chicken Golden Delight Pizza,80,Non-Veg,45
+14,Simply Veg Pizza,80,Veg,67
+15,Spicy Chicken Pizza,80,Non-Veg,87
+16,Peppy Paneer Pizza,80,Veg,45
+17,Deluxe Veggie Pizza,80,Veg,67
+18,Cheese and Corn Pizza,80,Veg,43
+19,Chicken Sausage Pizza,80,Non-Veg,65
+20,Veg Parcel,80,Veg,65

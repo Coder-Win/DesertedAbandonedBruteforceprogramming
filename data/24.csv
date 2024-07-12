@@ -1,0 +1,21 @@
+Id,Item,Price,Type,Quantity
+1,Butter Chicken,850,Non-Veg,50
+2,Paneer Tikka Masala,750,Veg,60
+3,Chicken Biryani,900,Non-Veg,70
+4,Dal Makhani,600,Veg,40
+5,Tandoori Chicken,800,Non-Veg,56
+6,Palak Paneer,700,Veg,78
+7,Fish Curry,1000,Non-Veg,43
+8,Aloo Gobi,550,Veg,65
+9,Chicken Tikka,750,Non-Veg,78
+10,Chole Bhature,600,Veg,98
+11,Mutton Rogan Josh,1100,Non-Veg,55
+12,Vegetable Biryani,700,Veg,43
+13,Keema Naan,250,Non Veg,45
+15,Veg Pulao,550,Veg,67
+15,Butter Naan,100,Veg,87
+16,Chicken Korma,850,Non-Veg,45
+17,Veg Kofta Curry,700,Veg,67
+18,Egg Fried Rice,750,Non-Veg,43
+19,Shahi Paneer,750,Veg,63
+20,Tandoori Roti,50,Veg,65

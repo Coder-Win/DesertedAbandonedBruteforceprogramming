@@ -1,0 +1,1103 @@
+Vegetable Pulao, Paneer Tikka, Butter Naan
+Veg Manchurian, Dal Tadka, Aloo Gobi Masala
+Palak Paneer, Veg Biryani, Butter Naan
+Chicken Biryani, Tandoori Chicken
+Butter Chicken, Garlic Naan
+Chicken Tikka Masala, Veg Pizza
+Fish Fry, Prawn Masala
+Mutton Biryani, Lamb Rogan Josh
+Goan Fish Curry, Butter Naan
+Paneer Butter Masala, Veg Pizza
+Idli (2 Pieces), Masala Dosa, Ghee Pongal
+Plain Dosa, Onion Uttapam, Rava Upma
+Medhu Vada (2 Pieces), Pongal, Curd Rice
+Rava Dosa, Poori (2 Pieces), Veg Fried Rice
+Mini Tiffin, Paneer Dosa, Set Dosa
+Ragi Dosa, Podi Idli (2 Pieces), Bisibelabath
+Ghee Roast Dosa, Veg Pulao
+Idli (2 Pieces), Masala Dosa, Ghee Pongal
+Plain Dosa, Onion Uttapam, Rava Upma
+Medhu Vada (2 Pieces), Pongal, Curd Rice
+Original Glazed Doughnut, Chocolate Glazed Doughnut, Strawberry Glazed Doughnut
+Caramel Glazed Doughnut, Classic Original Filled Doughnut, Chocolate Iced with Sprinkles Doughnut
+Glazed Raspberry Filled Doughnut, Glazed Lemon Filled Doughnut, New York Cheesecake Doughnut
+Chocolate Custard Filled Doughnut, Kreme Filled Doughnut, Apple Cinnamon Filled Doughnut
+Cookies and Kreme Doughnut, Red Velvet Cake Doughnut, Maple Iced Glazed Doughnut
+Cinnamon Apple Doughnut, Strawberry Shortcake Doughnut, Blueberry Cake Doughnut
+Chocolate Glazed Cruller Doughnut, Original Glazed Cruller Doughnut
+Original Glazed Doughnut, Chocolate Glazed Doughnut, Strawberry Glazed Doughnut
+Caramel Glazed Doughnut, Classic Original Filled Doughnut, Chocolate Iced with Sprinkles Doughnut
+Glazed Raspberry Filled Doughnut, Glazed Lemon Filled Doughnut, New York Cheesecake Doughnut
+Original Glazed Doughnut, Chocolate Glazed Doughnut, Strawberry Glazed Doughnut
+Caramel Glazed Doughnut, Classic Original Filled Doughnut, Chocolate Iced with Sprinkles Doughnut
+Glazed Raspberry Filled Doughnut, Glazed Lemon Filled Doughnut, New York Cheesecake Doughnut
+Chocolate Custard Filled Doughnut, Kreme Filled Doughnut, Apple Cinnamon Filled Doughnut
+Chocolate Custard Filled Doughnut, Kreme Filled Doughnut, Apple Cinnamon Filled Doughnut
+Chocolate Custard Filled Doughnut, Kreme Filled Doughnut, Apple Cinnamon Filled Doughnut
+Chocolate Custard Filled Doughnut, Kreme Filled Doughnut, Apple Cinnamon Filled Doughnut
+Caramel Glazed Doughnut, Classic Original Filled Doughnut, Chocolate Iced with Sprinkles Doughnut
+Caramel Glazed Doughnut, Classic Original Filled Doughnut, Chocolate Iced with Sprinkles Doughnut
+Caramel Glazed Doughnut, Classic Original Filled Doughnut, Chocolate Iced with Sprinkles Doughnut
+Caramel Glazed Doughnut, Classic Original Filled Doughnut, Chocolate Iced with Sprinkles Doughnut
+Espresso, Cappuccino, Grilled Cheese Sandwich, Fruit Smoothie
+Latte, Hot Chocolate, Chicken Sandwich, Caesar Salad
+Mocha, Veggie Sandwich, Tuna Sandwich, Greek Salad
+Tea, Iced Coffee, Grilled Paneer Sandwich, Pasta Salad
+Americano, Macchiato, Fruit Salad, Chicken Caesar Salad
+Flat White, Espresso, Fruit Smoothie, Grilled Cheese Sandwich
+Cappuccino, Latte, Chicken Sandwich, Veggie Sandwich
+Hot Chocolate, Tuna Sandwich, Greek Salad, Mocha
+Tea, Espresso, Grilled Paneer Sandwich, Pasta Salad
+Iced Coffee, Fruit Salad, Americano, Chicken Caesar Salad
+Macchiato, Flat White, Caesar Salad, Fruit Smoothie
+Grilled Cheese Sandwich, Cappuccino, Chicken Sandwich, Greek Salad
+Veggie Sandwich, Hot Chocolate, Tuna Sandwich, Fruit Salad
+Mocha, Espresso, Latte, Chicken Caesar Salad
+Flat White, Americano, Grilled Paneer Sandwich, Pasta Salad
+Tea, Iced Coffee, Fruit Smoothie, Caesar Salad
+Cappuccino, Mocha, Grilled Cheese Sandwich, Chicken Sandwich
+Latte, Macchiato, Greek Salad, Veggie Sandwich
+Hot Chocolate, Fruit Salad, Tuna Sandwich, Chicken Caesar Salad
+Espresso, Iced Coffee, Grilled Paneer Sandwich, Flat White
+Espresso, Cappuccino, Grilled Cheese Sandwich, Fruit Smoothie
+Latte, Hot Chocolate, Chicken Sandwich, Caesar Salad
+Espresso, Cappuccino, Grilled Cheese Sandwich, Fruit Smoothie
+Mocha, Veggie Sandwich, Tuna Sandwich, Greek Salad
+Tea, Iced Coffee, Grilled Paneer Sandwich, Pasta Salad
+Espresso, Cappuccino, Grilled Cheese Sandwich, Fruit Smoothie
+Americano, Macchiato, Fruit Salad, Chicken Caesar Salad
+Flat White, Espresso, Fruit Smoothie, Grilled Cheese Sandwich
+Espresso, Cappuccino, Grilled Cheese Sandwich, Fruit Smoothie
+Cappuccino, Latte, Chicken Sandwich, Veggie Sandwich
+Hot Chocolate, Tuna Sandwich, Greek Salad, Mocha
+Tea, Espresso, Grilled Paneer Sandwich, Pasta Salad
+Espresso, Cappuccino, Grilled Cheese Sandwich, Fruit Smoothie
+Iced Coffee, Fruit Salad, Americano, Chicken Caesar Salad
+Macchiato, Flat White, Caesar Salad, Fruit Smoothie
+Grilled Cheese Sandwich, Cappuccino, Chicken Sandwich, Greek Salad
+Veggie Sandwich, Hot Chocolate, Tuna Sandwich, Fruit Salad
+Espresso, Cappuccino, Grilled Cheese Sandwich, Fruit Smoothie
+Mocha, Espresso, Latte, Chicken Caesar Salad
+Flat White, Americano, Grilled Paneer Sandwich, Pasta Salad
+Tea, Iced Coffee, Fruit Smoothie, Caesar Salad
+Espresso, Cappuccino, Grilled Cheese Sandwich, Fruit Smoothie
+Cappuccino, Mocha, Grilled Cheese Sandwich, Chicken Sandwich
+Latte, Macchiato, Greek Salad, Veggie Sandwich
+Espresso, Cappuccino, Grilled Cheese Sandwich, Fruit Smoothie
+Hot Chocolate, Fruit Salad, Tuna Sandwich, Chicken Caesar Salad
+Espresso, Iced Coffee, Grilled Paneer Sandwich, Flat White
+Espresso, Cappuccino, Grilled Cheese Sandwich, Fruit Smoothie
+Vegetable Spring Rolls, Chicken Satay, Pad Thai Noodles, Chicken Fried Rice
+Vegetable Manchurian, Sushi Platter (Assorted), Tom Yum Soup, Vegetable Dim Sum
+Chicken Momos, Kung Pao Chicken, Vegetable Thai Green Curry, Chicken Teriyaki
+Paneer Tikka, Szechwan Fried Rice, Sweet and Sour Fish, Prawn Tempura
+Vegetable Chow Mein, Peking Duck (Half), Vegetable Spring Onion Pancake, Shrimp Pad Thai
+Vegetable Spring Rolls, Chicken Satay, Pad Thai Noodles, Chicken Fried Rice
+Vegetable Manchurian, Sushi Platter (Assorted), Tom Yum Soup, Vegetable Dim Sum
+Chicken Momos, Kung Pao Chicken, Vegetable Thai Green Curry, Chicken Teriyaki
+Paneer Tikka, Szechwan Fried Rice, Sweet and Sour Fish, Prawn Tempura
+Vegetable Chow Mein, Peking Duck (Half), Vegetable Spring Onion Pancake, Shrimp Pad Thai
+Vegetable Spring Rolls, Chicken Satay, Pad Thai Noodles, Chicken Fried Rice
+Vegetable Manchurian, Sushi Platter (Assorted), Tom Yum Soup, Vegetable Dim Sum
+Chicken Momos, Kung Pao Chicken, Vegetable Thai Green Curry, Chicken Teriyaki
+Paneer Tikka, Szechwan Fried Rice, Sweet and Sour Fish, Prawn Tempura
+Vegetable Chow Mein, Peking Duck (Half), Vegetable Spring Onion Pancake, Shrimp Pad Thai
+Vegetable Spring Rolls, Chicken Satay, Pad Thai Noodles, Chicken Fried Rice
+Vegetable Manchurian, Sushi Platter (Assorted), Tom Yum Soup, Vegetable Dim Sum
+Chicken Momos, Kung Pao Chicken, Vegetable Thai Green Curry, Chicken Teriyaki
+Paneer Tikka, Szechwan Fried Rice, Sweet and Sour Fish, Prawn Tempura
+Vegetable Chow Mein, Peking Duck (Half), Vegetable Spring Onion Pancake, Shrimp Pad Thai
+Vegetable Spring Rolls, Chicken Satay, Pad Thai Noodles, Chicken Fried Rice
+Vegetable Manchurian, Sushi Platter (Assorted), Tom Yum Soup, Vegetable Dim Sum
+Chicken Momos, Kung Pao Chicken, Vegetable Thai Green Curry, Chicken Teriyaki
+Paneer Tikka, Szechwan Fried Rice, Sweet and Sour Fish, Prawn Tempura
+Vegetable Chow Mein, Peking Duck (Half), Vegetable Spring Onion Pancake, Shrimp Pad Thai
+Vegetable Spring Rolls, Chicken Satay, Pad Thai Noodles, Chicken Fried Rice
+Chicken Satay, Pad Thai Noodles, Chicken Fried Rice, Vegetable Manchurian
+Pad Thai Noodles, Chicken Fried Rice, Vegetable Manchurian, Sushi Platter (Assorted)
+Chicken Fried Rice, Vegetable Manchurian, Sushi Platter (Assorted), Tom Yum Soup
+Vegetable Manchurian, Sushi Platter (Assorted), Tom Yum Soup, Vegetable Dim Sum
+Sushi Platter (Assorted), Tom Yum Soup, Vegetable Dim Sum, Chicken Momos
+Tom Yum Soup, Vegetable Dim Sum, Chicken Momos, Kung Pao Chicken
+Vegetable Dim Sum, Chicken Momos, Kung Pao Chicken, Vegetable Thai Green Curry
+Chicken Momos, Kung Pao Chicken, Vegetable Thai Green Curry, Chicken Teriyaki
+Kung Pao Chicken, Vegetable Thai Green Curry, Chicken Teriyaki, Paneer Tikka
+Vegetable Thai Green Curry, Chicken Teriyaki, Paneer Tikka, Szechwan Fried Rice
+Chicken Teriyaki, Paneer Tikka, Szechwan Fried Rice, Sweet and Sour Fish
+Paneer Tikka, Szechwan Fried Rice, Sweet and Sour Fish, Prawn Tempura
+Szechwan Fried Rice, Sweet and Sour Fish, Prawn Tempura, Vegetable Chow Mein
+Sweet and Sour Fish, Prawn Tempura, Vegetable Chow Mein, Peking Duck (Half)
+Prawn Tempura, Vegetable Chow Mein, Peking Duck (Half), Vegetable Spring Onion Pancake
+Vegetable Chow Mein, Peking Duck (Half), Vegetable Spring Onion Pancake, Shrimp Pad Thai
+Peking Duck (Half), Vegetable Spring Onion Pancake, Shrimp Pad Thai, Vegetable Spring Rolls
+Vegetable Spring Onion Pancake, Shrimp Pad Thai, Vegetable Spring Rolls, Chicken Satay
+Shrimp Pad Thai, Vegetable Spring Rolls, Chicken Satay, Pad Thai Noodles
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Vanilla Ice Cream Scoop, Chocolate Ice Cream Scoop, Strawberry Ice Cream Scoop, Butterscotch Ice Cream Scoop
+Mango Ice Cream Scoop, Pistachio Ice Cream Scoop, Caramel Ice Cream Scoop, Cookies and Cream Ice Cream Scoop
+Mint Chocolate Chip Ice Cream Scoop, Fruit Salad Ice Cream Scoop, Rainbow Sherbet Ice Cream Scoop, Bubblegum Ice Cream Scoop
+Peach Ice Cream Scoop, Coffee Ice Cream Scoop, Choco Fudge Brownie Sundae, Fruit Medley Ice Cream Sundae
+Chocolate Lava Ice Cream Sundae, Nutty Caramel Crunch Ice Cream Sundae, Berry Blast Ice Cream Sundae, Ibaco Special Ice Cream Sundae
+Classic Chicken Sandwich, Spicy Chicken Sandwich, Chicken Tenders (3 pcs), Chicken Tenders (5 pcs)
+Cajun Fries (Regular), Buttermilk Biscuit, Louisiana Chicken Combo (2 pcs), Louisiana Chicken Combo (3 pcs)
+Cajun Fish Sandwich, Cajun Fish Combo, Shrimp Combo, Chicken Waffle Tenders (3 pcs)
+Chicken Waffle Tenders (5 pcs), Red Beans & Rice (Regular), Coleslaw (Regular), Mashed Potatoes with Cajun Gravy (Regular)
+Cajun Rice (Regular), Apple Pie, Chocolate Beignets, Sweet Heat Sauce
+Classic Chicken Sandwich, Spicy Chicken Sandwich, Chicken Tenders (3 pcs), Chicken Tenders (5 pcs)
+Cajun Fries (Regular), Buttermilk Biscuit, Louisiana Chicken Combo (2 pcs), Louisiana Chicken Combo (3 pcs)
+Cajun Fish Sandwich, Cajun Fish Combo, Shrimp Combo, Chicken Waffle Tenders (3 pcs)
+Chicken Waffle Tenders (5 pcs), Red Beans & Rice (Regular), Coleslaw (Regular), Mashed Potatoes with Cajun Gravy (Regular)
+Cajun Rice (Regular), Apple Pie, Chocolate Beignets, Sweet Heat Sauce
+Classic Chicken Sandwich, Spicy Chicken Sandwich, Chicken Tenders (3 pcs), Chicken Tenders (5 pcs)
+Cajun Fries (Regular), Buttermilk Biscuit, Louisiana Chicken Combo (2 pcs), Louisiana Chicken Combo (3 pcs)
+Cajun Fish Sandwich, Cajun Fish Combo, Shrimp Combo, Chicken Waffle Tenders (3 pcs)
+Chicken Waffle Tenders (5 pcs), Red Beans & Rice (Regular), Coleslaw (Regular), Mashed Potatoes with Cajun Gravy (Regular)
+Cajun Rice (Regular), Apple Pie, Chocolate Beignets, Sweet Heat Sauce
+Classic Chicken Sandwich, Spicy Chicken Sandwich, Chicken Tenders (3 pcs), Chicken Tenders (5 pcs)
+Cajun Fries (Regular), Buttermilk Biscuit, Louisiana Chicken Combo (2 pcs), Louisiana Chicken Combo (3 pcs)
+Cajun Fish Sandwich, Cajun Fish Combo, Shrimp Combo, Chicken Waffle Tenders (3 pcs)
+Chicken Waffle Tenders (5 pcs), Red Beans & Rice (Regular), Coleslaw (Regular), Mashed Potatoes with Cajun Gravy (Regular)
+Cajun Rice (Regular), Apple Pie, Chocolate Beignets, Sweet Heat Sauce
+Classic Chicken Sandwich, Spicy Chicken Sandwich, Chicken Tenders (3 pcs), Chicken Tenders (5 pcs)
+Cajun Fries (Regular), Buttermilk Biscuit, Louisiana Chicken Combo (2 pcs), Louisiana Chicken Combo (3 pcs)
+Cajun Fish Sandwich, Cajun Fish Combo, Shrimp Combo, Chicken Waffle Tenders (3 pcs)
+Chicken Waffle Tenders (5 pcs), Red Beans & Rice (Regular), Coleslaw (Regular), Mashed Potatoes with Cajun Gravy (Regular)
+Cajun Rice (Regular), Apple Pie, Chocolate Beignets, Sweet Heat Sauce
+Classic Chicken Sandwich, Spicy Chicken Sandwich, Chicken Tenders (3 pcs), Chicken Tenders (5 pcs)
+Cajun Fries (Regular), Buttermilk Biscuit, Louisiana Chicken Combo (2 pcs), Louisiana Chicken Combo (3 pcs)
+Cajun Fish Sandwich, Cajun Fish Combo, Shrimp Combo, Chicken Waffle Tenders (3 pcs)
+Chicken Waffle Tenders (5 pcs), Red Beans & Rice (Regular), Coleslaw (Regular), Mashed Potatoes with Cajun Gravy (Regular)
+Cajun Rice (Regular), Apple Pie, Chocolate Beignets, Sweet Heat Sauce
+Classic Chicken Sandwich, Spicy Chicken Sandwich, Chicken Tenders (3 pcs), Chicken Tenders (5 pcs)
+Cajun Fries (Regular), Buttermilk Biscuit, Louisiana Chicken Combo (2 pcs), Louisiana Chicken Combo (3 pcs)
+Cajun Fish Sandwich, Cajun Fish Combo, Shrimp Combo, Chicken Waffle Tenders (3 pcs)
+Chicken Waffle Tenders (5 pcs), Red Beans & Rice (Regular), Coleslaw (Regular), Mashed Potatoes with Cajun Gravy (Regular)
+Cajun Rice (Regular), Apple Pie, Chocolate Beignets, Sweet Heat Sauce
+Classic Chicken Sandwich, Spicy Chicken Sandwich, Chicken Tenders (3 pcs), Chicken Tenders (5 pcs)
+Cajun Fries (Regular), Buttermilk Biscuit, Louisiana Chicken Combo (2 pcs), Louisiana Chicken Combo (3 pcs)
+Cajun Fish Sandwich, Cajun Fish Combo, Shrimp Combo, Chicken Waffle Tenders (3 pcs)
+Chicken Waffle Tenders (5 pcs), Red Beans & Rice (Regular), Coleslaw (Regular), Mashed Potatoes with Cajun Gravy (Regular)
+Cajun Rice (Regular), Apple Pie, Chocolate Beignets, Sweet Heat Sauce
+Classic Chicken Sandwich, Spicy Chicken Sandwich, Chicken Tenders (3 pcs), Chicken Tenders (5 pcs)
+Cajun Fries (Regular), Buttermilk Biscuit, Louisiana Chicken Combo (2 pcs), Louisiana Chicken Combo (3 pcs)
+Cajun Fish Sandwich, Cajun Fish Combo, Shrimp Combo, Chicken Waffle Tenders (3 pcs)
+Chicken Waffle Tenders (5 pcs), Red Beans & Rice (Regular), Coleslaw (Regular), Mashed Potatoes with Cajun Gravy (Regular)
+Cajun Rice (Regular), Apple Pie, Chocolate Beignets, Sweet Heat Sauce
+Classic Chicken Sandwich, Spicy Chicken Sandwich, Chicken Tenders (3 pcs), Chicken Tenders (5 pcs)
+Cajun Fries (Regular), Buttermilk Biscuit, Louisiana Chicken Combo (2 pcs), Louisiana Chicken Combo (3 pcs)
+Cajun Fish Sandwich, Cajun Fish Combo, Shrimp Combo, Chicken Waffle Tenders (3 pcs)
+Chicken Waffle Tenders (5 pcs), Red Beans & Rice (Regular), Coleslaw (Regular), Mashed Potatoes with Cajun Gravy (Regular)
+Cajun Rice (Regular), Apple Pie, Chocolate Beignets, Sweet Heat Sauce
+Chicken Biryani, Mutton Biryani, Veg Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Veg Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Veg Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Veg Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Veg Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Veg Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Veg Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Veg Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Veg Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Veg Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Veg Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Veg Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Veg Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Veg Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Veg Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Veg Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Veg Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Veg Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Veg Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Veg Fried Rice, Chicken Fried Rice, Fish Curry
+Masala Dosa, Idli Sambhar, Vada Sambhar, Plain Dosa
+Onion Uttapam, Rava Masala Dosa, Mysore Masala Dosa, Pongal
+Vegetable Upma, Ghee Roast Dosa, Rava Idli Sambhar, Set Dosa
+Poori Bhaji, Paper Dosa, Medu Vada, Rava Kesari
+Rava Upma, Tomato Uttapam, Ghee Pongal, Kesari Bath
+Masala Dosa, Idli Sambhar, Vada Sambhar, Plain Dosa
+Onion Uttapam, Rava Masala Dosa, Mysore Masala Dosa, Pongal
+Vegetable Upma, Ghee Roast Dosa, Rava Idli Sambhar, Set Dosa
+Poori Bhaji, Paper Dosa, Medu Vada, Rava Kesari
+Rava Upma, Tomato Uttapam, Ghee Pongal, Kesari Bath
+Masala Dosa, Idli Sambhar, Vada Sambhar, Plain Dosa
+Onion Uttapam, Rava Masala Dosa, Mysore Masala Dosa, Pongal
+Vegetable Upma, Ghee Roast Dosa, Rava Idli Sambhar, Set Dosa
+Poori Bhaji, Paper Dosa, Medu Vada, Rava Kesari
+Rava Upma, Tomato Uttapam, Ghee Pongal, Kesari Bath
+Masala Dosa, Idli Sambhar, Vada Sambhar, Plain Dosa
+Onion Uttapam, Rava Masala Dosa, Mysore Masala Dosa, Pongal
+Vegetable Upma, Ghee Roast Dosa, Rava Idli Sambhar, Set Dosa
+Poori Bhaji, Paper Dosa, Medu Vada, Rava Kesari
+Rava Upma, Tomato Uttapam, Ghee Pongal, Kesari Bath
+Masala Dosa, Idli Sambhar, Vada Sambhar, Plain Dosa
+Onion Uttapam, Rava Masala Dosa, Mysore Masala Dosa, Pongal
+Vegetable Upma, Ghee Roast Dosa, Rava Idli Sambhar, Set Dosa
+Poori Bhaji, Paper Dosa, Medu Vada, Rava Kesari
+Rava Upma, Tomato Uttapam, Ghee Pongal, Kesari Bath
+Masala Dosa, Idli Sambhar, Vada Sambhar, Plain Dosa
+Onion Uttapam, Rava Masala Dosa, Mysore Masala Dosa, Pongal
+Vegetable Upma, Ghee Roast Dosa, Rava Idli Sambhar, Set Dosa
+Poori Bhaji, Paper Dosa, Medu Vada, Rava Kesari
+Rava Upma, Tomato Uttapam, Ghee Pongal, Kesari Bath
+Masala Dosa, Idli Sambhar, Vada Sambhar, Plain Dosa
+Onion Uttapam, Rava Masala Dosa, Mysore Masala Dosa, Pongal
+Vegetable Upma, Ghee Roast Dosa, Rava Idli Sambhar, Set Dosa
+Poori Bhaji, Paper Dosa, Medu Vada, Rava Kesari
+Rava Upma, Tomato Uttapam, Ghee Pongal, Kesari Bath
+Masala Dosa, Idli Sambhar, Vada Sambhar, Plain Dosa
+Onion Uttapam, Rava Masala Dosa, Mysore Masala Dosa, Pongal
+Vegetable Upma, Ghee Roast Dosa, Rava Idli Sambhar, Set Dosa
+Poori Bhaji, Paper Dosa, Medu Vada, Rava Kesari
+Rava Upma, Tomato Uttapam, Ghee Pongal, Kesari Bath
+Masala Dosa, Idli Sambhar, Vada Sambhar, Plain Dosa
+Onion Uttapam, Rava Masala Dosa, Mysore Masala Dosa, Pongal
+Vegetable Upma, Ghee Roast Dosa, Rava Idli Sambhar, Set Dosa
+Poori Bhaji, Paper Dosa, Medu Vada, Rava Kesari
+Rava Upma, Tomato Uttapam, Ghee Pongal, Kesari Bath
+Masala Dosa, Idli Sambhar, Vada Sambhar, Plain Dosa
+Onion Uttapam, Rava Masala Dosa, Mysore Masala Dosa, Pongal
+Vegetable Upma, Ghee Roast Dosa, Rava Idli Sambhar, Set Dosa
+Poori Bhaji, Paper Dosa, Medu Vada, Rava Kesari
+Rava Upma, Tomato Uttapam, Ghee Pongal, Kesari Bath
+Original Glazed Doughnut, Chocolate Glazed Doughnut, Strawberry Glazed Doughnut, Caramel Glazed Doughnut
+Classic Original Filled Doughnut, Chocolate Iced with Sprinkles Doughnut, Glazed Raspberry Filled Doughnut, Glazed Lemon Filled Doughnut
+New York Cheesecake Doughnut, Chocolate Custard Filled Doughnut, Kreme Filled Doughnut, Apple Cinnamon Filled Doughnut
+Cookies and Kreme Doughnut, Red Velvet Cake Doughnut, Maple Iced Glazed Doughnut, Cinnamon Apple Doughnut
+Strawberry Shortcake Doughnut, Blueberry Cake Doughnut, Chocolate Glazed Cruller Doughnut, Original Glazed Cruller Doughnut
+Original Glazed Doughnut, Chocolate Glazed Doughnut, Strawberry Glazed Doughnut, Caramel Glazed Doughnut
+Classic Original Filled Doughnut, Chocolate Iced with Sprinkles Doughnut, Glazed Raspberry Filled Doughnut, Glazed Lemon Filled Doughnut
+New York Cheesecake Doughnut, Chocolate Custard Filled Doughnut, Kreme Filled Doughnut, Apple Cinnamon Filled Doughnut
+Cookies and Kreme Doughnut, Red Velvet Cake Doughnut, Maple Iced Glazed Doughnut, Cinnamon Apple Doughnut
+Strawberry Shortcake Doughnut, Blueberry Cake Doughnut, Chocolate Glazed Cruller Doughnut, Original Glazed Cruller Doughnut
+Original Glazed Doughnut, Chocolate Glazed Doughnut, Strawberry Glazed Doughnut, Caramel Glazed Doughnut
+Classic Original Filled Doughnut, Chocolate Iced with Sprinkles Doughnut, Glazed Raspberry Filled Doughnut, Glazed Lemon Filled Doughnut
+New York Cheesecake Doughnut, Chocolate Custard Filled Doughnut, Kreme Filled Doughnut, Apple Cinnamon Filled Doughnut
+Cookies and Kreme Doughnut, Red Velvet Cake Doughnut, Maple Iced Glazed Doughnut, Cinnamon Apple Doughnut
+Strawberry Shortcake Doughnut, Blueberry Cake Doughnut, Chocolate Glazed Cruller Doughnut, Original Glazed Cruller Doughnut
+Original Glazed Doughnut, Chocolate Glazed Doughnut, Strawberry Glazed Doughnut, Caramel Glazed Doughnut
+Classic Original Filled Doughnut, Chocolate Iced with Sprinkles Doughnut, Glazed Raspberry Filled Doughnut, Glazed Lemon Filled Doughnut
+New York Cheesecake Doughnut, Chocolate Custard Filled Doughnut, Kreme Filled Doughnut, Apple Cinnamon Filled Doughnut
+Cookies and Kreme Doughnut, Red Velvet Cake Doughnut, Maple Iced Glazed Doughnut, Cinnamon Apple Doughnut
+Strawberry Shortcake Doughnut, Blueberry Cake Doughnut, Chocolate Glazed Cruller Doughnut, Original Glazed Cruller Doughnut
+Original Glazed Doughnut, Chocolate Glazed Doughnut, Strawberry Glazed Doughnut, Caramel Glazed Doughnut
+Classic Original Filled Doughnut, Chocolate Iced with Sprinkles Doughnut, Glazed Raspberry Filled Doughnut, Glazed Lemon Filled Doughnut
+New York Cheesecake Doughnut, Chocolate Custard Filled Doughnut, Kreme Filled Doughnut, Apple Cinnamon Filled Doughnut
+Cookies and Kreme Doughnut, Red Velvet Cake Doughnut, Maple Iced Glazed Doughnut, Cinnamon Apple Doughnut
+Strawberry Shortcake Doughnut, Blueberry Cake Doughnut, Chocolate Glazed Cruller Doughnut, Original Glazed Cruller Doughnut
+Paneer Tikka Masala, Butter Chicken, Dal Makhani, Chicken Biryani
+Veg Pulao, Palak Paneer, Chicken Curry, Vegetable Korma
+Tandoori Chicken, Chana Masala, Mutton Rogan Josh, Paneer Butter Masala
+Chicken Tikka, Aloo Gobi, Fish Curry, Mixed Vegetable Pakora
+Chicken 65, Mutton Biryani, Baingan Bharta, Chicken Kebab
+Paneer Tikka Masala, Butter Chicken, Dal Makhani, Chicken Biryani
+Veg Pulao, Palak Paneer, Chicken Curry, Vegetable Korma
+Tandoori Chicken, Chana Masala, Mutton Rogan Josh, Paneer Butter Masala
+Chicken Tikka, Aloo Gobi, Fish Curry, Mixed Vegetable Pakora
+Chicken 65, Mutton Biryani, Baingan Bharta, Chicken Kebab
+Paneer Tikka Masala, Butter Chicken, Dal Makhani, Chicken Biryani
+Veg Pulao, Palak Paneer, Chicken Curry, Vegetable Korma
+Tandoori Chicken, Chana Masala, Mutton Rogan Josh, Paneer Butter Masala
+Chicken Tikka, Aloo Gobi, Fish Curry, Mixed Vegetable Pakora
+Chicken 65, Mutton Biryani, Baingan Bharta, Chicken Kebab
+Paneer Tikka Masala, Butter Chicken, Dal Makhani, Chicken Biryani
+Veg Pulao, Palak Paneer, Chicken Curry, Vegetable Korma
+Tandoori Chicken, Chana Masala, Mutton Rogan Josh, Paneer Butter Masala
+Chicken Tikka, Aloo Gobi, Fish Curry, Mixed Vegetable Pakora
+Chicken 65, Mutton Biryani, Baingan Bharta, Chicken Kebab
+Paneer Tikka Masala, Butter Chicken, Dal Makhani, Chicken Biryani
+Veg Pulao, Palak Paneer, Chicken Curry, Vegetable Korma
+Tandoori Chicken, Chana Masala, Mutton Rogan Josh, Paneer Butter Masala
+Chicken Tikka, Aloo Gobi, Fish Curry, Mixed Vegetable Pakora
+Chicken 65, Mutton Biryani, Baingan Bharta, Chicken Kebab
+Butter Chicken, Chicken Biryani, Chicken Curry, Tandoori Chicken
+Mutton Rogan Josh, Chicken Tikka, Chicken 65, Mutton Biryani
+Paneer Tikka Masala, Palak Paneer, Vegetable Korma, Chana Masala
+Aloo Gobi, Baingan Bharta, Mixed Vegetable Pakora, Fish Curry
+Dal Makhani, Veg Pulao, Paneer Butter Masala, Chicken Kebab
+Butter Chicken, Chicken Biryani, Chicken Curry, Tandoori Chicken
+Mutton Rogan Josh, Chicken Tikka, Chicken 65, Mutton Biryani
+Paneer Tikka Masala, Palak Paneer, Vegetable Korma, Chana Masala
+Aloo Gobi, Baingan Bharta, Mixed Vegetable Pakora, Fish Curry
+Dal Makhani, Veg Pulao, Paneer Butter Masala, Chicken Kebab
+Butter Chicken, Chicken Biryani, Chicken Curry, Tandoori Chicken
+Mutton Rogan Josh, Chicken Tikka, Chicken 65, Mutton Biryani
+Paneer Tikka Masala, Palak Paneer, Vegetable Korma, Chana Masala
+Aloo Gobi, Baingan Bharta, Mixed Vegetable Pakora, Fish Curry
+Dal Makhani, Veg Pulao, Paneer Butter Masala, Chicken Kebab
+Butter Chicken, Chicken Biryani, Chicken Curry, Tandoori Chicken
+Mutton Rogan Josh, Chicken Tikka, Chicken 65, Mutton Biryani
+Paneer Tikka Masala, Palak Paneer, Vegetable Korma, Chana Masala
+Aloo Gobi, Baingan Bharta, Mixed Vegetable Pakora, Fish Curry
+Dal Makhani, Veg Pulao, Paneer Butter Masala, Chicken Kebab
+Butter Chicken, Chicken Biryani, Chicken Curry, Tandoori Chicken
+Mutton Rogan Josh, Chicken Tikka, Chicken 65, Mutton Biryani
+Paneer Tikka Masala, Palak Paneer, Vegetable Korma, Chana Masala
+Aloo Gobi, Baingan Bharta, Mixed Vegetable Pakora, Fish Curry
+Dal Makhani, Veg Pulao, Paneer Butter Masala, Chicken Kebab
+Whopper Burger, Big King XL Burger, Paneer King Melt Burger, Crispy Veg Supreme Burger
+Chicken Tandoor Grill Burger, Veggie Strips Burger, Grilled Chicken Burger, BK Veggie Burger
+Chicken Chilli Cheese Burger, Paneer King Burger, BBQ Bacon King Burger, Cheese Melt Veg Burger
+Mutton Whopper Burger, Crispy Chicken Supreme Burger, Fiery Chicken Burger, Jalapeno King Burger
+Bacon King Burger, Cheese Lover Veg Burger, Spicy Paneer Burger, Angriest Whopper Burger
+Whopper Burger, Big King XL Burger, Paneer King Melt Burger, Crispy Veg Supreme Burger
+Chicken Tandoor Grill Burger, Veggie Strips Burger, Grilled Chicken Burger, BK Veggie Burger
+Chicken Chilli Cheese Burger, Paneer King Burger, BBQ Bacon King Burger, Cheese Melt Veg Burger
+Mutton Whopper Burger, Crispy Chicken Supreme Burger, Fiery Chicken Burger, Jalapeno King Burger
+Bacon King Burger, Cheese Lover Veg Burger, Spicy Paneer Burger, Angriest Whopper Burger
+Whopper Burger, Big King XL Burger, Paneer King Melt Burger, Crispy Veg Supreme Burger
+Chicken Tandoor Grill Burger, Veggie Strips Burger, Grilled Chicken Burger, BK Veggie Burger
+Chicken Chilli Cheese Burger, Paneer King Burger, BBQ Bacon King Burger, Cheese Melt Veg Burger
+Mutton Whopper Burger, Crispy Chicken Supreme Burger, Fiery Chicken Burger, Jalapeno King Burger
+Bacon King Burger, Cheese Lover Veg Burger, Spicy Paneer Burger, Angriest Whopper Burger
+Whopper Burger, Big King XL Burger, Paneer King Melt Burger, Crispy Veg Supreme Burger
+Chicken Tandoor Grill Burger, Veggie Strips Burger, Grilled Chicken Burger, BK Veggie Burger
+Chicken Chilli Cheese Burger, Paneer King Burger, BBQ Bacon King Burger, Cheese Melt Veg Burger
+Mutton Whopper Burger, Crispy Chicken Supreme Burger, Fiery Chicken Burger, Jalapeno King Burger
+Bacon King Burger, Cheese Lover Veg Burger, Spicy Paneer Burger, Angriest Whopper Burger
+Whopper Burger, Big King XL Burger, Paneer King Melt Burger, Crispy Veg Supreme Burger
+Chicken Tandoor Grill Burger, Veggie Strips Burger, Grilled Chicken Burger, BK Veggie Burger
+Chicken Chilli Cheese Burger, Paneer King Burger, BBQ Bacon King Burger, Cheese Melt Veg Burger
+Mutton Whopper Burger, Crispy Chicken Supreme Burger, Fiery Chicken Burger, Jalapeno King Burger
+Bacon King Burger, Cheese Lover Veg Burger, Spicy Paneer Burger, Angriest Whopper Burger
+Whopper Burger, Big King XL Burger, Paneer King Melt Burger, Crispy Veg Supreme Burger
+Chicken Tandoor Grill Burger, Veggie Strips Burger, Grilled Chicken Burger, BK Veggie Burger
+Chicken Chilli Cheese Burger, Paneer King Burger, BBQ Bacon King Burger, Cheese Melt Veg Burger
+Mutton Whopper Burger, Crispy Chicken Supreme Burger, Fiery Chicken Burger, Jalapeno King Burger
+Bacon King Burger, Cheese Lover Veg Burger, Spicy Paneer Burger, Angriest Whopper Burger
+Whopper Burger, Big King XL Burger, Paneer King Melt Burger, Crispy Veg Supreme Burger
+Chicken Tandoor Grill Burger, Veggie Strips Burger, Grilled Chicken Burger, BK Veggie Burger
+Chicken Chilli Cheese Burger, Paneer King Burger, BBQ Bacon King Burger, Cheese Melt Veg Burger
+Mutton Whopper Burger, Crispy Chicken Supreme Burger, Fiery Chicken Burger, Jalapeno King Burger
+Bacon King Burger, Cheese Lover Veg Burger, Spicy Paneer Burger, Angriest Whopper Burger
+Whopper Burger, Big King XL Burger, Paneer King Melt Burger, Crispy Veg Supreme Burger
+Chicken Tandoor Grill Burger, Veggie Strips Burger, Grilled Chicken Burger, BK Veggie Burger
+Chicken Chilli Cheese Burger, Paneer King Burger, BBQ Bacon King Burger, Cheese Melt Veg Burger
+Mutton Whopper Burger, Crispy Chicken Supreme Burger, Fiery Chicken Burger, Jalapeno King Burger
+Bacon King Burger, Cheese Lover Veg Burger, Spicy Paneer Burger, Angriest Whopper Burger
+Whopper Burger, Big King XL Burger, Paneer King Melt Burger, Crispy Veg Supreme Burger
+Chicken Tandoor Grill Burger, Veggie Strips Burger, Grilled Chicken Burger, BK Veggie Burger
+Chicken Chilli Cheese Burger, Paneer King Burger, BBQ Bacon King Burger, Cheese Melt Veg Burger
+Mutton Whopper Burger, Crispy Chicken Supreme Burger, Fiery Chicken Burger, Jalapeno King Burger
+Bacon King Burger, Cheese Lover Veg Burger, Spicy Paneer Burger, Angriest Whopper Burger
+Chicken Biryani, Mutton Biryani, Vegetable Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Vegetable Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Vegetable Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Vegetable Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Vegetable Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Vegetable Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Vegetable Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Vegetable Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Vegetable Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Vegetable Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Vegetable Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Vegetable Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Vegetable Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Vegetable Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Vegetable Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Vegetable Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Vegetable Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Vegetable Fried Rice, Chicken Fried Rice, Fish Curry
+Chicken Biryani, Mutton Biryani, Vegetable Biryani, Egg Biryani
+Prawn Biryani, Chicken 65, Mutton Chukka, Veg Kurma
+Chicken Gravy, Mutton Sukka, Egg Masala, Paneer Butter Masala
+Parotta, Idiyappam, Egg Kothu Parotta, Chicken Noodles
+Mutton Noodles, Vegetable Fried Rice, Chicken Fried Rice, Fish Curry
+Margherita Pizza (Regular), Farmhouse Pizza (Regular), Paneer Tikka Pizza (Regular), Veggie Supreme Pizza (Regular)
+Chicken Supreme Pizza (Regular), Chicken Tikka Pizza (Regular), Ultimate Chicken Pizza (Regular), Pepperoni Pizza (Regular)
+Exotica Pizza (Regular), Spicy Veggie Pizza (Regular), Triple Chicken Feast Pizza (Regular), Paneer Overloaded Pizza (Regular)
+Veggie Lovers Pizza (Regular), Tandoori Paneer Pizza (Regular), Chicken Sausage Pizza (Regular), Classic Corn Pizza (Regular)
+Veggie Paradise Pizza (Regular), Chicken Overloaded Pizza (Regular), BBQ Chicken Pizza (Regular), Spicy Chicken Pizza (Regular)
+Margherita Pizza (Regular), Farmhouse Pizza (Regular), Paneer Tikka Pizza (Regular), Veggie Supreme Pizza (Regular)
+Chicken Supreme Pizza (Regular), Chicken Tikka Pizza (Regular), Ultimate Chicken Pizza (Regular), Pepperoni Pizza (Regular)
+Exotica Pizza (Regular), Spicy Veggie Pizza (Regular), Triple Chicken Feast Pizza (Regular), Paneer Overloaded Pizza (Regular)
+Veggie Lovers Pizza (Regular), Tandoori Paneer Pizza (Regular), Chicken Sausage Pizza (Regular), Classic Corn Pizza (Regular)
+Veggie Paradise Pizza (Regular), Chicken Overloaded Pizza (Regular), BBQ Chicken Pizza (Regular), Spicy Chicken Pizza (Regular)
+Margherita Pizza (Regular), Farmhouse Pizza (Regular), Paneer Tikka Pizza (Regular), Veggie Supreme Pizza (Regular)
+Chicken Supreme Pizza (Regular), Chicken Tikka Pizza (Regular), Ultimate Chicken Pizza (Regular), Pepperoni Pizza (Regular)
+Exotica Pizza (Regular), Spicy Veggie Pizza (Regular), Triple Chicken Feast Pizza (Regular), Paneer Overloaded Pizza (Regular)
+Veggie Lovers Pizza (Regular), Tandoori Paneer Pizza (Regular), Chicken Sausage Pizza (Regular), Classic Corn Pizza (Regular)
+Veggie Paradise Pizza (Regular), Chicken Overloaded Pizza (Regular), BBQ Chicken Pizza (Regular), Spicy Chicken Pizza (Regular)
+Margherita Pizza (Regular), Farmhouse Pizza (Regular), Paneer Tikka Pizza (Regular), Veggie Supreme Pizza (Regular)
+Chicken Supreme Pizza (Regular), Chicken Tikka Pizza (Regular), Ultimate Chicken Pizza (Regular), Pepperoni Pizza (Regular)
+Exotica Pizza (Regular), Spicy Veggie Pizza (Regular), Triple Chicken Feast Pizza (Regular), Paneer Overloaded Pizza (Regular)
+Veggie Lovers Pizza (Regular), Tandoori Paneer Pizza (Regular), Chicken Sausage Pizza (Regular), Classic Corn Pizza (Regular)
+Veggie Paradise Pizza (Regular), Chicken Overloaded Pizza (Regular), BBQ Chicken Pizza (Regular), Spicy Chicken Pizza (Regular)
+Margherita Pizza (Regular), Farmhouse Pizza (Regular), Paneer Tikka Pizza (Regular), Veggie Supreme Pizza (Regular)
+Chicken Supreme Pizza (Regular), Chicken Tikka Pizza (Regular), Ultimate Chicken Pizza (Regular), Pepperoni Pizza (Regular)
+Exotica Pizza (Regular), Spicy Veggie Pizza (Regular), Triple Chicken Feast Pizza (Regular), Paneer Overloaded Pizza (Regular)
+Veggie Lovers Pizza (Regular), Tandoori Paneer Pizza (Regular), Chicken Sausage Pizza (Regular), Classic Corn Pizza (Regular)
+Veggie Paradise Pizza (Regular), Chicken Overloaded Pizza (Regular), BBQ Chicken Pizza (Regular), Spicy Chicken Pizza (Regular)
+Margherita Pizza (Regular), Farmhouse Pizza (Regular), Paneer Tikka Pizza (Regular), Veggie Supreme Pizza (Regular)
+Chicken Supreme Pizza (Regular), Chicken Tikka Pizza (Regular), Ultimate Chicken Pizza (Regular), Pepperoni Pizza (Regular)
+Exotica Pizza (Regular), Spicy Veggie Pizza (Regular), Triple Chicken Feast Pizza (Regular), Paneer Overloaded Pizza (Regular)
+Veggie Lovers Pizza (Regular), Tandoori Paneer Pizza (Regular), Chicken Sausage Pizza (Regular), Classic Corn Pizza (Regular)
+Veggie Paradise Pizza (Regular), Chicken Overloaded Pizza (Regular), BBQ Chicken Pizza (Regular), Spicy Chicken Pizza (Regular)
+Margherita Pizza (Regular), Farmhouse Pizza (Regular), Paneer Tikka Pizza (Regular), Veggie Supreme Pizza (Regular)
+Chicken Supreme Pizza (Regular), Chicken Tikka Pizza (Regular), Ultimate Chicken Pizza (Regular), Pepperoni Pizza (Regular)
+Exotica Pizza (Regular), Spicy Veggie Pizza (Regular), Triple Chicken Feast Pizza (Regular), Paneer Overloaded Pizza (Regular)
+Margherita Pizza (Regular), Farmhouse Pizza (Regular), Paneer Tikka Pizza (Regular), Veggie Supreme Pizza (Regular)
+Chicken Supreme Pizza (Regular), Chicken Tikka Pizza (Regular), Ultimate Chicken Pizza (Regular), Pepperoni Pizza (Regular)
+Exotica Pizza (Regular), Spicy Veggie Pizza (Regular), Triple Chicken Feast Pizza (Regular), Paneer Overloaded Pizza (Regular)
+Veggie Lovers Pizza (Regular), Tandoori Paneer Pizza (Regular), Chicken Sausage Pizza (Regular), Classic Corn Pizza (Regular)
+Veggie Paradise Pizza (Regular), Chicken Overloaded Pizza (Regular), BBQ Chicken Pizza (Regular), Spicy Chicken Pizza (Regular)
+4 Cheese Margherita Pizza (Regular), Peri Peri Paneer Pizza (Regular), Chipotle Chicken Pizza (Regular), Country Side Chicken Pizza (Regular)
+BBQ Chicken Pizza (Regular), Cheese Burst Pizza (Regular), Pepper BBQ Chicken Pizza (Regular), Spicy Tandoori Paneer Pizza (Regular)
+El Mexicana Pizza (Regular), Peri Peri Chicken Pizza (Regular), Classic Chicken Supreme Pizza (Regular), American Heat Pizza (Regular)
+Veg Extravaganza Pizza (Regular), Farm Fresh Pizza (Regular), Paneer Overload Pizza (Regular), Chicken Overload Pizza (Regular)
+Double Cheese Margherita Pizza (Regular), Ultimate Cheese Pizza (Regular), Mexican Wave Pizza (Regular), Spiced Paneer Pizza (Regular)
+4 Cheese Margherita Pizza (Regular), Peri Peri Paneer Pizza (Regular), Chipotle Chicken Pizza (Regular), Country Side Chicken Pizza (Regular)
+BBQ Chicken Pizza (Regular), Cheese Burst Pizza (Regular), Pepper BBQ Chicken Pizza (Regular), Spicy Tandoori Paneer Pizza (Regular)
+El Mexicana Pizza (Regular), Peri Peri Chicken Pizza (Regular), Classic Chicken Supreme Pizza (Regular), American Heat Pizza (Regular)
+Veg Extravaganza Pizza (Regular), Farm Fresh Pizza (Regular), Paneer Overload Pizza (Regular), Chicken Overload Pizza (Regular)
+Double Cheese Margherita Pizza (Regular), Ultimate Cheese Pizza (Regular), Mexican Wave Pizza (Regular), Spiced Paneer Pizza (Regular)
+4 Cheese Margherita Pizza (Regular), Peri Peri Paneer Pizza (Regular), Chipotle Chicken Pizza (Regular), Country Side Chicken Pizza (Regular)
+BBQ Chicken Pizza (Regular), Cheese Burst Pizza (Regular), Pepper BBQ Chicken Pizza (Regular), Spicy Tandoori Paneer Pizza (Regular)
+El Mexicana Pizza (Regular), Peri Peri Chicken Pizza (Regular), Classic Chicken Supreme Pizza (Regular), American Heat Pizza (Regular)
+Veg Extravaganza Pizza (Regular), Farm Fresh Pizza (Regular), Paneer Overload Pizza (Regular), Chicken Overload Pizza (Regular)
+Double Cheese Margherita Pizza (Regular), Ultimate Cheese Pizza (Regular), Mexican Wave Pizza (Regular), Spiced Paneer Pizza (Regular)
+4 Cheese Margherita Pizza (Regular), Peri Peri Paneer Pizza (Regular), Chipotle Chicken Pizza (Regular), Country Side Chicken Pizza (Regular)
+BBQ Chicken Pizza (Regular), Cheese Burst Pizza (Regular), Pepper BBQ Chicken Pizza (Regular), Spicy Tandoori Paneer Pizza (Regular)
+El Mexicana Pizza (Regular), Peri Peri Chicken Pizza (Regular), Classic Chicken Supreme Pizza (Regular), American Heat Pizza (Regular)
+Veg Extravaganza Pizza (Regular), Farm Fresh Pizza (Regular), Paneer Overload Pizza (Regular), Chicken Overload Pizza (Regular)
+Double Cheese Margherita Pizza (Regular), Ultimate Cheese Pizza (Regular), Mexican Wave Pizza (Regular), Spiced Paneer Pizza (Regular)
+Bean Burrito, Cheesy Potato Griller, Mexican Paneer Taco, Veggie Quesadilla
+Chicken Quesadilla, Grilled Chicken Burrito, Crunchy Taco, Nacho Cheese Doritos Locos Tacos
+Mexican Rice Bowl, Chalupa Supreme, Cheesy Fiesta Potatoes, Mexican Paneer Chalupa
+Fajita Chicken Burrito, Nacho Fries, Mexican Paneer Burrito, Beefy Nachos Griller
+Chalupa Cravings Box, Chicken Quesarito, Veggie Power Menu Bowl, Cinnamon Twists
+Bean Burrito, Cheesy Potato Griller, Mexican Paneer Taco, Veggie Quesadilla
+Chicken Quesadilla, Grilled Chicken Burrito, Crunchy Taco, Nacho Cheese Doritos Locos Tacos
+Mexican Rice Bowl, Chalupa Supreme, Cheesy Fiesta Potatoes, Mexican Paneer Chalupa
+Fajita Chicken Burrito, Nacho Fries, Mexican Paneer Burrito, Beefy Nachos Griller
+Chalupa Cravings Box, Chicken Quesarito, Veggie Power Menu Bowl, Cinnamon Twists
+Bean Burrito, Cheesy Potato Griller, Mexican Paneer Taco, Veggie Quesadilla
+Chicken Quesadilla, Grilled Chicken Burrito, Crunchy Taco, Nacho Cheese Doritos Locos Tacos
+Mexican Rice Bowl, Chalupa Supreme, Cheesy Fiesta Potatoes, Mexican Paneer Chalupa
+Fajita Chicken Burrito, Nacho Fries, Mexican Paneer Burrito, Beefy Nachos Griller
+Chalupa Cravings Box, Chicken Quesarito, Veggie Power Menu Bowl, Cinnamon Twists
+Bean Burrito, Cheesy Potato Griller, Mexican Paneer Taco, Veggie Quesadilla
+Chicken Quesadilla, Grilled Chicken Burrito, Crunchy Taco, Nacho Cheese Doritos Locos Tacos
+Mexican Rice Bowl, Chalupa Supreme, Cheesy Fiesta Potatoes, Mexican Paneer Chalupa
+Fajita Chicken Burrito, Nacho Fries, Mexican Paneer Burrito, Beefy Nachos Griller
+Chalupa Cravings Box, Chicken Quesarito, Veggie Power Menu Bowl, Cinnamon Twists
+Bean Burrito, Cheesy Potato Griller, Mexican Paneer Taco, Veggie Quesadilla
+Chicken Quesadilla, Grilled Chicken Burrito, Crunchy Taco, Nacho Cheese Doritos Locos Tacos
+Mexican Rice Bowl, Chalupa Supreme, Cheesy Fiesta Potatoes, Mexican Paneer Chalupa
+Fajita Chicken Burrito, Nacho Fries, Mexican Paneer Burrito, Beefy Nachos Griller
+Chalupa Cravings Box, Chicken Quesarito, Veggie Power Menu Bowl, Cinnamon Twists
+Bean Burrito, Cheesy Potato Griller, Mexican Paneer Taco, Veggie Quesadilla
+Chicken Quesadilla, Grilled Chicken Burrito, Crunchy Taco, Nacho Cheese Doritos Locos Tacos
+Mexican Rice Bowl, Chalupa Supreme, Cheesy Fiesta Potatoes, Mexican Paneer Chalupa
+Fajita Chicken Burrito, Nacho Fries, Mexican Paneer Burrito, Beefy Nachos Griller
+Chalupa Cravings Box, Chicken Quesarito, Veggie Power Menu Bowl, Cinnamon Twists
+Bean Burrito, Cheesy Potato Griller, Mexican Paneer Taco, Veggie Quesadilla
+Chicken Quesadilla, Grilled Chicken Burrito, Crunchy Taco, Nacho Cheese Doritos Locos Tacos
+Mexican Rice Bowl, Chalupa Supreme, Cheesy Fiesta Potatoes, Mexican Paneer Chalupa
+Fajita Chicken Burrito, Nacho Fries, Mexican Paneer Burrito, Beefy Nachos Griller
+Chalupa Cravings Box, Chicken Quesarito, Veggie Power Menu Bowl, Cinnamon Twists
+Bean Burrito, Cheesy Potato Griller, Mexican Paneer Taco, Veggie Quesadilla
+Chicken Quesadilla, Grilled Chicken Burrito, Crunchy Taco, Nacho Cheese Doritos Locos Tacos
+Mexican Rice Bowl, Chalupa Supreme, Cheesy Fiesta Potatoes, Mexican Paneer Chalupa
+Fajita Chicken Burrito, Nacho Fries, Mexican Paneer Burrito, Beefy Nachos Griller
+Chalupa Cravings Box, Chicken Quesarito, Veggie Power Menu Bowl, Cinnamon Twists
+McAloo Tikki Burger, McVeggie Burger, McSpicy Paneer Burger, Veg Maharaja Mac
+Filet-O-Fish Burger, McChicken Burger, McSpicy Chicken Burger, Chicken Maharaja Mac
+McEgg Burger, BigSpicy Chicken Wrap, BigSpicy Paneer Wrap, McVeggie Wrap
+McChicken Wrap, Veg Pizza McPuff, Chicken McPuff, McAloo Wrap
+Masala Wedges, Chicken McNuggets (6 pcs), French Fries (Regular), Soft Serve Cone
+McAloo Tikki Burger, McVeggie Burger, McSpicy Paneer Burger, Veg Maharaja Mac
+Filet-O-Fish Burger, McChicken Burger, McSpicy Chicken Burger, Chicken Maharaja Mac
+McEgg Burger, BigSpicy Chicken Wrap, BigSpicy Paneer Wrap, McVeggie Wrap
+McChicken Wrap, Veg Pizza McPuff, Chicken McPuff, McAloo Wrap
+Masala Wedges, Chicken McNuggets (6 pcs), French Fries (Regular), Soft Serve Cone
+McAloo Tikki Burger, McVeggie Burger, McSpicy Paneer Burger, Veg Maharaja Mac
+Filet-O-Fish Burger, McChicken Burger, McSpicy Chicken Burger, Chicken Maharaja Mac
+McEgg Burger, BigSpicy Chicken Wrap, BigSpicy Paneer Wrap, McVeggie Wrap
+McChicken Wrap, Veg Pizza McPuff, Chicken McPuff, McAloo Wrap
+Masala Wedges, Chicken McNuggets (6 pcs), French Fries (Regular), Soft Serve Cone
+McAloo Tikki Burger, McVeggie Burger, McSpicy Paneer Burger, Veg Maharaja Mac
+Filet-O-Fish Burger, McChicken Burger, McSpicy Chicken Burger, Chicken Maharaja Mac
+McEgg Burger, BigSpicy Chicken Wrap, BigSpicy Paneer Wrap, McVeggie Wrap
+McChicken Wrap, Veg Pizza McPuff, Chicken McPuff, McAloo Wrap
+Masala Wedges, Chicken McNuggets (6 pcs), French Fries (Regular), Soft Serve Cone
+McSpicy Paneer Burger, McVeggie Burger, McAloo Tikki Burger, Veg Maharaja Mac
+McChicken Burger, Filet-O-Fish Burger, Chicken Maharaja Mac, McSpicy Chicken Burger
+BigSpicy Paneer Wrap, McEgg Burger, BigSpicy Chicken Wrap, McVeggie Wrap
+Chicken McNuggets (6 pcs), Veg Pizza McPuff, Chicken McPuff, McChicken Wrap
+Masala Wedges, French Fries (Regular), Soft Serve Cone, McAloo Wrap
+McSpicy Paneer Burger, McVeggie Burger, McAloo Tikki Burger, Veg Maharaja Mac
+McChicken Burger, Filet-O-Fish Burger, Chicken Maharaja Mac, McSpicy Chicken Burger
+BigSpicy Paneer Wrap, McEgg Burger, BigSpicy Chicken Wrap, McVeggie Wrap
+Chicken McNuggets (6 pcs), Veg Pizza McPuff, Chicken McPuff, McChicken Wrap
+Masala Wedges, French Fries (Regular), Soft Serve Cone, McAloo Wrap
+McSpicy Paneer Burger, McVeggie Burger, McAloo Tikki Burger, Veg Maharaja Mac
+McChicken Burger, Filet-O-Fish Burger, Chicken Maharaja Mac, McSpicy Chicken Burger
+BigSpicy Paneer Wrap, McEgg Burger, BigSpicy Chicken Wrap, McVeggie Wrap
+Chicken McNuggets (6 pcs), Veg Pizza McPuff, Chicken McPuff, McChicken Wrap
+Masala Wedges, French Fries (Regular), Soft Serve Cone, McAloo Wrap
+McSpicy Paneer Burger, McVeggie Burger, McAloo Tikki Burger, Veg Maharaja Mac
+McChicken Burger, Filet-O-Fish Burger, Chicken Maharaja Mac, McSpicy Chicken Burger
+BigSpicy Paneer Wrap, McEgg Burger, BigSpicy Chicken Wrap, McVeggie Wrap
+Chicken McNuggets (6 pcs), Veg Pizza McPuff, Chicken McPuff, McChicken Wrap
+Masala Wedges, French Fries (Regular), Soft Serve Cone, McAloo Wrap
+Margherita Pizza, Pepperoni Pizza, Veggie Supreme Pizza, Chicken Supreme Pizza
+BBQ Chicken Pizza, Extravaganzza Pizza, Hawaiian Pizza, Cheese Burst Pizza
+Farmhouse Pizza, Mexican Green Wave Pizza, Paneer Makhani Pizza, Non-Veg Supreme Pizza
+Chicken Golden Delight Pizza, Simply Veg Pizza, Spicy Chicken Pizza, Peppy Paneer Pizza
+Deluxe Veggie Pizza, Cheese and Corn Pizza, Chicken Sausage Pizza, Veg Parcel
+Margherita Pizza, Pepperoni Pizza, Veggie Supreme Pizza, Chicken Supreme Pizza
+BBQ Chicken Pizza, Extravaganzza Pizza, Hawaiian Pizza, Cheese Burst Pizza
+Farmhouse Pizza, Mexican Green Wave Pizza, Paneer Makhani Pizza, Non-Veg Supreme Pizza
+Chicken Golden Delight Pizza, Simply Veg Pizza, Spicy Chicken Pizza, Peppy Paneer Pizza
+Deluxe Veggie Pizza, Cheese and Corn Pizza, Chicken Sausage Pizza, Veg Parcel
+Margherita Pizza, Pepperoni Pizza, Veggie Supreme Pizza, Chicken Supreme Pizza
+BBQ Chicken Pizza, Extravaganzza Pizza, Hawaiian Pizza, Cheese Burst Pizza
+Farmhouse Pizza, Mexican Green Wave Pizza, Paneer Makhani Pizza, Non-Veg Supreme Pizza
+Chicken Golden Delight Pizza, Simply Veg Pizza, Spicy Chicken Pizza, Peppy Paneer Pizza
+Deluxe Veggie Pizza, Cheese and Corn Pizza, Chicken Sausage Pizza, Veg Parcel
+Margherita Pizza, Pepperoni Pizza, Veggie Supreme Pizza, Chicken Supreme Pizza
+BBQ Chicken Pizza, Extravaganzza Pizza, Hawaiian Pizza, Cheese Burst Pizza
+Farmhouse Pizza, Mexican Green Wave Pizza, Paneer Makhani Pizza, Non-Veg Supreme Pizza
+Chicken Golden Delight Pizza, Simply Veg Pizza, Spicy Chicken Pizza, Peppy Paneer Pizza
+Deluxe Veggie Pizza, Cheese and Corn Pizza, Chicken Sausage Pizza, Veg Parcel
+Vegetable Biryani, Paneer Tikka Masala, Aloo Gobi
+Palak Paneer, Veg Korma, Dal Makhani
+Veg Manchurian, Vegetable Pulao, Tandoori Roti, Veg Pizza
+Chicken Biryani, Butter Chicken, Chicken Tikka Masala
+Chicken Curry, Fish Fry, Prawn Masala, Mutton Biryani
+Goan Fish Curry, Lamb Rogan Josh, Tandoori Chicken
+Vegetable Biryani, Paneer Tikka Masala, Aloo Gobi
+Palak Paneer, Veg Korma, Dal Makhani
+Veg Manchurian, Vegetable Pulao, Tandoori Roti, Veg Pizza
+Chicken Biryani, Butter Chicken, Chicken Tikka Masala
+Chicken Curry, Fish Fry, Prawn Masala, Mutton Biryani
+Goan Fish Curry, Lamb Rogan Josh, Tandoori Chicken
+Vegetable Biryani, Paneer Tikka Masala, Aloo Gobi
+Palak Paneer, Veg Korma, Dal Makhani
+Veg Manchurian, Vegetable Pulao, Tandoori Roti, Veg Pizza
+Chicken Biryani, Butter Chicken, Chicken Tikka Masala
+Chicken Curry, Fish Fry, Prawn Masala, Mutton Biryani
+Goan Fish Curry, Lamb Rogan Josh, Tandoori Chicken
+Vegetable Biryani, Paneer Tikka Masala, Aloo Gobi
+Palak Paneer, Veg Korma, Dal Makhani
+Veg Manchurian, Vegetable Pulao, Tandoori Roti, Veg Pizza
+Chicken Biryani, Butter Chicken, Chicken Tikka Masala
+Chicken Curry, Fish Fry, Prawn Masala, Mutton Biryani
+Goan Fish Curry, Lamb Rogan Josh, Tandoori Chicken
+Vegetable Biryani, Paneer Tikka Masala, Aloo Gobi
+Palak Paneer, Veg Korma, Dal Makhani
+Veg Manchurian, Vegetable Pulao, Tandoori Roti, Veg Pizza
+Chicken Biryani, Butter Chicken, Chicken Tikka Masala
+Chicken Curry, Fish Fry, Prawn Masala, Mutton Biryani
+Goan Fish Curry, Lamb Rogan Josh, Tandoori Chicken
+Vegetable Biryani, Paneer Tikka Masala, Aloo Gobi
+Palak Paneer, Veg Korma, Dal Makhani
+Veg Manchurian, Vegetable Pulao, Tandoori Roti, Veg Pizza
+Chicken Biryani, Butter Chicken, Chicken Tikka Masala
+Chicken Curry, Fish Fry, Prawn Masala, Mutton Biryani
+Goan Fish Curry, Lamb Rogan Josh, Tandoori Chicken
+Vegetable Biryani, Vegetable Biryani, Vegetable Biryani, Paneer Tikka Masala, Paneer Tikka Masala, Paneer Tikka Masala, Aloo Gobi, Aloo Gobi, Aloo Gobi
+Palak Paneer, Palak Paneer, Palak Paneer, Veg Korma, Veg Korma, Veg Korma, Dal Makhani, Dal Makhani, Dal Makhani
+Veg Manchurian, Veg Manchurian, Veg Manchurian, Vegetable Pulao, Vegetable Pulao, Vegetable Pulao, Tandoori Roti, Tandoori Roti, Tandoori Roti
+Chicken Biryani, Chicken Biryani, Chicken Biryani, Butter Chicken, Butter Chicken, Butter Chicken, Chicken Tikka Masala, Chicken Tikka Masala, Chicken Tikka Masala
+Chicken Curry, Chicken Curry, Chicken Curry, Fish Fry, Fish Fry, Fish Fry, Prawn Masala, Prawn Masala, Prawn Masala, Mutton Biryani, Mutton Biryani, Mutton Biryani
+Goan Fish Curry, Goan Fish Curry, Goan Fish Curry, Lamb Rogan Josh, Lamb Rogan Josh, Lamb Rogan Josh, Tandoori Chicken, Tandoori Chicken, Tandoori Chicken
+Vegetable Biryani, Vegetable Biryani, Vegetable Biryani, Paneer Tikka Masala, Paneer Tikka Masala, Paneer Tikka Masala, Aloo Gobi, Aloo Gobi, Aloo Gobi
+Palak Paneer, Palak Paneer, Palak Paneer, Veg Korma, Veg Korma, Veg Korma, Dal Makhani, Dal Makhani, Dal Makhani
+Veg Manchurian, Veg Manchurian, Veg Manchurian, Vegetable Pulao, Vegetable Pulao, Vegetable Pulao, Tandoori Roti, Tandoori Roti, Tandoori Roti
+Chicken Biryani, Chicken Biryani, Chicken Biryani, Butter Chicken, Butter Chicken, Butter Chicken, Chicken Tikka Masala, Chicken Tikka Masala, Chicken Tikka Masala
+Chicken Curry, Chicken Curry, Chicken Curry, Fish Fry, Fish Fry, Fish Fry, Prawn Masala, Prawn Masala, Prawn Masala, Mutton Biryani, Mutton Biryani, Mutton Biryani
+Goan Fish Curry, Goan Fish Curry, Goan Fish Curry, Lamb Rogan Josh, Lamb Rogan Josh, Lamb Rogan Josh, Tandoori Chicken, Tandoori Chicken, Tandoori Chicken
+Vegetable Biryani, Vegetable Biryani, Vegetable Biryani, Paneer Tikka Masala, Paneer Tikka Masala, Paneer Tikka Masala, Aloo Gobi, Aloo Gobi, Aloo Gobi
+Palak Paneer, Palak Paneer, Palak Paneer, Veg Korma, Veg Korma, Veg Korma, Dal Makhani, Dal Makhani, Dal Makhani
+Veg Manchurian, Veg Manchurian, Veg Manchurian, Vegetable Pulao, Vegetable Pulao, Vegetable Pulao, Tandoori Roti, Tandoori Roti, Tandoori Roti
+Chicken Biryani, Chicken Biryani, Chicken Biryani, Butter Chicken, Butter Chicken, Butter Chicken, Chicken Tikka Masala, Chicken Tikka Masala, Chicken Tikka Masala
+Chicken Curry, Chicken Curry, Chicken Curry, Fish Fry, Fish Fry, Fish Fry, Prawn Masala, Prawn Masala, Prawn Masala, Mutton Biryani, Mutton Biryani, Mutton Biryani
+Goan Fish Curry, Goan Fish Curry, Goan Fish Curry, Lamb Rogan Josh, Lamb Rogan Josh, Lamb Rogan Josh, Tandoori Chicken, Tandoori Chicken, Tandoori Chicken
+Masala Dosa, Idli Sambar, Pongal Vada
+Onion Rava Masala Dosa, Ghee Roast Dosa, Medu Vada
+Paneer Butter Masala, Chole Bhature, Veg Pulao
+Mushroom Manchurian, Vegetable Biryani, Butter Naan
+Palak Paneer, Pav Bhaji, Masala Puri
+Rava Upma, Poori Masala, Gobi Manchurian
+Tomato Uttapam, Vegetable Fried Rice, Masala Dosa
+Idli Sambar, Pongal Vada, Onion Rava Masala Dosa
+Ghee Roast Dosa, Medu Vada, Paneer Butter Masala
+Chole Bhature, Veg Pulao, Mushroom Manchurian
+Vegetable Biryani, Butter Naan, Palak Paneer
+Pav Bhaji, Masala Puri, Rava Upma
+Poori Masala, Gobi Manchurian, Tomato Uttapam
+Vegetable Fried Rice, Masala Dosa, Idli Sambar
+Pongal Vada, Onion Rava Masala Dosa, Ghee Roast Dosa
+Medu Vada, Paneer Butter Masala, Chole Bhature
+Veg Pulao, Mushroom Manchurian, Vegetable Biryani
+Butter Naan, Palak Paneer, Pav Bhaji
+Masala Puri, Rava Upma, Poori Masala
+Gobi Manchurian, Tomato Uttapam, Vegetable Fried Rice  
+Masala Dosa, Masala Dosa, Masala Dosa, Idli Sambar, Idli Sambar, Idli Sambar, Pongal Vada, Pongal Vada, Pongal Vada
+Onion Rava Masala Dosa, Onion Rava Masala Dosa, Onion Rava Masala Dosa, Ghee Roast Dosa, Ghee Roast Dosa, Ghee Roast Dosa, Medu Vada, Medu Vada, Medu Vada
+Paneer Butter Masala, Paneer Butter Masala, Paneer Butter Masala, Chole Bhature, Chole Bhature, Chole Bhature, Veg Pulao, Veg Pulao, Veg Pulao
+Mushroom Manchurian, Mushroom Manchurian, Mushroom Manchurian, Vegetable Biryani, Vegetable Biryani, Vegetable Biryani, Butter Naan, Butter Naan, Butter Naan
+Palak Paneer, Palak Paneer, Palak Paneer, Pav Bhaji, Pav Bhaji, Pav Bhaji, Masala Puri, Masala Puri, Masala Puri
+Rava Upma, Rava Upma, Rava Upma, Poori Masala, Poori Masala, Poori Masala, Gobi Manchurian, Gobi Manchurian, Gobi Manchurian
+Tomato Uttapam, Tomato Uttapam, Tomato Uttapam, Vegetable Fried Rice, Vegetable Fried Rice, Vegetable Fried Rice, Masala Dosa, Masala Dosa, Masala Dosa
+Idli Sambar, Idli Sambar, Idli Sambar, Pongal Vada, Pongal Vada, Pongal Vada, Onion Rava Masala Dosa, Onion Rava Masala Dosa, Onion Rava Masala Dosa
+Ghee Roast Dosa, Ghee Roast Dosa, Ghee Roast Dosa, Medu Vada, Medu Vada, Medu Vada, Paneer Butter Masala, Paneer Butter Masala, Paneer Butter Masala
+Chole Bhature, Chole Bhature, Chole Bhature, Veg Pulao, Veg Pulao, Veg Pulao, Mushroom Manchurian, Mushroom Manchurian, Mushroom Manchurian
+Vegetable Biryani, Vegetable Biryani, Vegetable Biryani, Butter Naan, Butter Naan, Butter Naan, Palak Paneer, Palak Paneer, Palak Paneer
+Pav Bhaji, Pav Bhaji, Pav Bhaji, Masala Puri, Masala Puri, Masala Puri, Rava Upma, Rava Upma, Rava Upma
+Poori Masala, Poori Masala, Poori Masala, Gobi Manchurian, Gobi Manchurian, Gobi Manchurian, Tomato Uttapam, Tomato Uttapam, Tomato Uttapam
+Vegetable Fried Rice, Vegetable Fried Rice, Vegetable Fried Rice, Masala Dosa, Masala Dosa, Masala Dosa, Idli Sambar
+Paneer Tikka, Veg Seekh Kebab, Tandoori Mushroom
+Corn on the Cob, Grilled Pineapple, Veg Platter
+Chicken Tikka, Mutton Seekh Kebab, Tandoori Prawns
+Fish Amritsari, Barbeque Chicken Wings, Fish Tikka
+Butter Garlic Prawns, Chilli Garlic Fish, Chicken Platter
+BBQ Chicken Pizza, Paneer Shashlik, Cajun Spiced Potato Wedges
+Grilled Corn and Spinach Quesadillas, Peri Peri Chicken, Paneer Tikka
+Veg Seekh Kebab, Tandoori Mushroom, Corn on the Cob
+Grilled Pineapple, Veg Platter, Chicken Tikka
+Mutton Seekh Kebab, Tandoori Prawns, Fish Amritsari
+Barbeque Chicken Wings, Fish Tikka, Butter Garlic Prawns
+Chilli Garlic Fish, Chicken Platter, BBQ Chicken Pizza
+Paneer Shashlik, Cajun Spiced Potato Wedges, Grilled Corn and Spinach Quesadillas
+Peri Peri Chicken, Paneer Tikka, Veg Seekh Kebab
+Tandoori Mushroom, Corn on the Cob, Grilled Pineapple
+Veg Platter, Chicken Tikka, Mutton Seekh Kebab
+Tandoori Prawns, Fish Amritsari, Barbeque Chicken Wings
+Fish Tikka, Butter Garlic Prawns, Chilli Garlic Fish
+Chicken Platter, BBQ Chicken Pizza, Paneer Shashlik
+Cajun Spiced Potato Wedges, Grilled Corn and Spinach Quesadillas, Peri Peri Chicken
+Paneer Tikka, Paneer Tikka, Paneer Tikka, Veg Seekh Kebab, Veg Seekh Kebab, Veg Seekh Kebab, Tandoori Mushroom, Tandoori Mushroom, Tandoori Mushroom
+Corn on the Cob, Corn on the Cob, Corn on the Cob, Grilled Pineapple, Grilled Pineapple, Grilled Pineapple, Veg Platter, Veg Platter, Veg Platter
+Chicken Tikka, Chicken Tikka, Chicken Tikka, Mutton Seekh Kebab, Mutton Seekh Kebab, Mutton Seekh Kebab, Tandoori Prawns, Tandoori Prawns, Tandoori Prawns
+Fish Amritsari, Fish Amritsari, Fish Amritsari, Barbeque Chicken Wings, Barbeque Chicken Wings, Barbeque Chicken Wings, Fish Tikka, Fish Tikka, Fish Tikka
+Butter Garlic Prawns, Butter Garlic Prawns, Butter Garlic Prawns, Chilli Garlic Fish, Chilli Garlic Fish, Chilli Garlic Fish, Chicken Platter, Chicken Platter, Chicken Platter
+BBQ Chicken Pizza, BBQ Chicken Pizza, BBQ Chicken Pizza, Paneer Shashlik, Paneer Shashlik, Paneer Shashlik, Cajun Spiced Potato Wedges, Cajun Spiced Potato Wedges, Cajun Spiced Potato Wedges
+Grilled Corn and Spinach Quesadillas, Grilled Corn and Spinach Quesadillas, Grilled Corn and Spinach Quesadillas, Peri Peri Chicken, Peri Peri Chicken, Peri Peri Chicken, Paneer Tikka, Paneer Tikka, Paneer Tikka
+Veg Seekh Kebab, Veg Seekh Kebab, Veg Seekh Kebab, Tandoori Mushroom, Tandoori Mushroom, Tandoori Mushroom, Corn on the Cob, Corn on the Cob, Corn on the Cob
+Grilled Pineapple, Grilled Pineapple, Grilled Pineapple, Veg Platter, Veg Platter, Veg Platter, Chicken Tikka, Chicken Tikka, Chicken Tikka
+Mutton Seekh Kebab, Mutton Seekh Kebab, Mutton Seekh Kebab, Tandoori Prawns, Tandoori Prawns, Tandoori Prawns, Fish Amritsari, Fish Amritsari, Fish Amritsari
+Barbeque Chicken Wings, Barbeque Chicken Wings, Barbeque Chicken Wings, Fish Tikka, Fish Tikka, Fish Tikka, Butter Garlic Prawns, Butter Garlic Prawns, Butter Garlic Prawns
+Chilli Garlic Fish, Chilli Garlic Fish, Chilli Garlic Fish, Chicken Platter, Chicken Platter, Chicken Platter, BBQ Chicken Pizza, BBQ Chicken Pizza, BBQ Chicken Pizza
+Paneer Shashlik, Paneer Shashlik, Paneer Shashlik, Cajun Spiced Potato Wedges, Cajun Spiced Potato Wedges
+Original Recipe Chicken, Extra Crispy Chicken, Chicken Tenders (3 Piece)
+Popcorn Chicken (Small), Chicken Wings (6 Piece), Twister Wrap (Grilled)
+Zinger Burger, Veggie Burger, Mashed Potatoes (Regular)
+Coleslaw (Regular), Famous Bowl, Pot Pie
+Chicken Little, Original Recipe Fries (Regular), Hot Wings (6 Piece)
+Mac & Cheese (Regular), Chicken Sandwich, Corn on the Cob
+Chicken Littles (12 Piece), Soft Drink (Medium), Original Recipe Chicken
+Extra Crispy Chicken, Chicken Tenders (3 Piece), Popcorn Chicken (Small)
+Chicken Wings (6 Piece), Twister Wrap (Grilled), Zinger Burger
+Veggie Burger, Mashed Potatoes (Regular), Coleslaw (Regular)
+Famous Bowl, Pot Pie, Chicken Little
+Original Recipe Fries (Regular), Hot Wings (6 Piece), Mac & Cheese (Regular)
+Chicken Sandwich, Corn on the Cob, Chicken Littles (12 Piece)
+Soft Drink (Medium), Original Recipe Chicken, Extra Crispy Chicken
+Chicken Tenders (3 Piece), Popcorn Chicken (Small), Chicken Wings (6 Piece)
+Twister Wrap (Grilled), Zinger Burger, Veggie Burger
+Mashed Potatoes (Regular), Coleslaw (Regular), Famous Bowl
+Pot Pie, Chicken Little, Original Recipe Fries (Regular)
+Hot Wings (6 Piece), Mac & Cheese (Regular), Chicken Sandwich
+Corn on the Cob, Chicken Littles (12 Piece), Soft Drink (Medium)
+Original Recipe Chicken, Original Recipe Chicken, Original Recipe Chicken, Extra Crispy Chicken, Extra Crispy Chicken, Extra Crispy Chicken, Chicken Tenders (3 Piece), Chicken Tenders (3 Piece), Chicken Tenders (3 Piece)
+Popcorn Chicken (Small), Popcorn Chicken (Small), Popcorn Chicken (Small), Chicken Wings (6 Piece), Chicken Wings (6 Piece), Chicken Wings (6 Piece), Twister Wrap (Grilled), Twister Wrap (Grilled), Twister Wrap (Grilled)
+Zinger Burger, Zinger Burger, Zinger Burger, Veggie Burger, Veggie Burger, Veggie Burger, Mashed Potatoes (Regular), Mashed Potatoes (Regular), Mashed Potatoes (Regular)
+Coleslaw (Regular), Coleslaw (Regular), Coleslaw (Regular), Famous Bowl, Famous Bowl, Famous Bowl, Pot Pie, Pot Pie, Pot Pie
+Chicken Little, Chicken Little, Chicken Little, Original Recipe Fries (Regular), Original Recipe Fries (Regular), Original Recipe Fries (Regular), Hot Wings (6 Piece), Hot Wings (6 Piece), Hot Wings (6 Piece)
+Mac & Cheese (Regular), Mac & Cheese (Regular), Mac & Cheese (Regular), Chicken Sandwich, Chicken Sandwich, Chicken Sandwich, Corn on the Cob, Corn on the Cob, Corn on the Cob
+Chicken Littles (12 Piece), Chicken Littles (12 Piece), Chicken Littles (12 Piece), Soft Drink (Medium), Soft Drink (Medium), Soft Drink (Medium), Original Recipe Chicken, Original Recipe Chicken, Original Recipe Chicken
+Extra Crispy Chicken, Extra Crispy Chicken, Extra Crispy Chicken, Chicken Tenders (3 Piece), Chicken Tenders (3 Piece), Chicken Tenders (3 Piece), Popcorn Chicken (Small), Popcorn Chicken (Small), Popcorn Chicken (Small)
+Chicken Wings (6 Piece), Chicken Wings (6 Piece), Chicken Wings (6 Piece), Twister Wrap (Grilled), Twister Wrap (Grilled), Twister Wrap (Grilled), Zinger Burger, Zinger Burger, Zinger Burger
+Veggie Burger, Veggie Burger, Veggie Burger, Mashed Potatoes (Regular), Mashed Potatoes (Regular), Mashed Potatoes (Regular), Coleslaw (Regular), Coleslaw (Regular), Coleslaw (Regular)
+Famous Bowl, Famous Bowl, Famous Bowl, Pot Pie, Pot Pie, Pot Pie, Chicken Little, Chicken Little, Chicken Little
+Original Recipe Fries (Regular), Original Recipe Fries (Regular), Original Recipe Fries (Regular), Hot Wings (6 Piece), Hot Wings (6 Piece), Hot Wings (6 Piece), Mac & Cheese (Regular), Mac & Cheese (Regular), Mac & Cheese (Regular)
+Chicken Sandwich, Chicken Sandwich, Chicken Sandwich, Corn on the Cob, Corn on the Cob, Corn on the Cob, Chicken Littles (12 Piece), Chicken Littles (12 Piece), Chicken Littles (12 Piece)
+Soft Drink (Medium), Soft Drink (Medium), Soft Drink (Medium), Original Recipe Chicken, Original Recipe Chicken, Original Recipe Chicken, Extra Crispy Chicken, Extra Crispy Chicken
+Idli (2 Pieces),Masala Dosa,Plain Dosa,Medhu Vada (2 Pieces),Rava Upma
+Onion Uttapam,Medhu Vada (2 Pieces),Rava Upma,Poori (2 Pieces),Mini Tiffin
+Pongal,Ghee Pongal,Rava Dosa,Poori (2 Pieces),Mini Tiffin,Ragi Dosa
+Paneer Dosa,Set Dosa,Podi Idli (2 Pieces),Curd Rice,Bisibelabath
+Idli (2 Pieces),Masala Dosa,Plain Dosa,Medhu Vada (2 Pieces),Rava Upma
+Onion Uttapam,Medhu Vada (2 Pieces),Rava Upma,Poori (2 Pieces),Mini Tiffin
+Pongal,Ghee Pongal,Rava Dosa,Poori (2 Pieces),Mini Tiffin,Ragi Dosa
+Paneer Dosa,Set Dosa,Podi Idli (2 Pieces),Curd Rice,Bisibelabath
+Idli (2 Pieces),Masala Dosa,Plain Dosa,Medhu Vada (2 Pieces),Rava Upma
+Onion Uttapam,Medhu Vada (2 Pieces),Rava Upma,Poori (2 Pieces),Mini Tiffin
+Pongal,Ghee Pongal,Rava Dosa,Poori (2 Pieces),Mini Tiffin,Ragi Dosa
+Paneer Dosa,Set Dosa,Podi Idli (2 Pieces),Curd Rice,Bisibelabath
+Idli (2 Pieces),Masala Dosa,Plain Dosa,Medhu Vada (2 Pieces),Rava Upma
+Onion Uttapam,Medhu Vada (2 Pieces),Rava Upma,Poori (2 Pieces),Mini Tiffin
+Pongal,Ghee Pongal,Rava Dosa,Poori (2 Pieces),Mini Tiffin,Ragi Dosa
+Paneer Dosa,Set Dosa,Podi Idli (2 Pieces),Curd Rice,Bisibelabath
+Idli (2 Pieces),Masala Dosa,Plain Dosa,Medhu Vada (2 Pieces),Rava Upma
+Onion Uttapam,Medhu Vada (2 Pieces),Rava Upma,Poori (2 Pieces),Mini Tiffin
+Pongal,Ghee Pongal,Rava Dosa,Poori (2 Pieces),Mini Tiffin,Ragi Dosa
+Paneer Dosa,Set Dosa,Podi Idli (2 Pieces),Curd Rice,Bisibelabath
+Dal Chawal Arancini,Mushroom Galouti,Dal Chawal Pakora,Tandoori Margherita Kulcha,Chole Kulcha Box
+Farzi Caesar Salad,Amritsari Chole Bhatture,Paneer Tikka Masala,Dal Makhani,Paneer Makhani Biryani
+Chicken Tikka Masala,Butter Chicken Biryani,Tandoori Chicken Wings,Prawn Balchao,Goan Fish Curry
+Chicken Biryani,Hyderabadi Chicken Dum Biryani,Butter Garlic Prawns,Amritsari Fish and Chips,Lamb Rogan Josh
+Dal Chawal Arancini,Mushroom Galouti,Dal Chawal Pakora,Tandoori Margherita Kulcha,Chole Kulcha Box
+Farzi Caesar Salad,Amritsari Chole Bhatture,Paneer Tikka Masala,Dal Makhani,Paneer Makhani Biryani
+Chicken Tikka Masala,Butter Chicken Biryani,Tandoori Chicken Wings,Prawn Balchao,Goan Fish Curry
+Chicken Biryani,Hyderabadi Chicken Dum Biryani,Butter Garlic Prawns,Amritsari Fish and Chips,Lamb Rogan Josh
+Dal Chawal Arancini,Mushroom Galouti,Dal Chawal Pakora,Tandoori Margherita Kulcha,Chole Kulcha Box
+Farzi Caesar Salad,Amritsari Chole Bhatture,Paneer Tikka Masala,Dal Makhani,Paneer Makhani Biryani
+Chicken Tikka Masala,Butter Chicken Biryani,Tandoori Chicken Wings,Prawn Balchao,Goan Fish Curry
+Chicken Biryani,Hyderabadi Chicken Dum Biryani,Butter Garlic Prawns,Amritsari Fish and Chips,Lamb Rogan Josh
+Dal Chawal Arancini,Mushroom Galouti,Dal Chawal Pakora,Tandoori Margherita Kulcha,Chole Kulcha Box
+Farzi Caesar Salad,Amritsari Chole Bhatture,Paneer Tikka Masala,Dal Makhani,Paneer Makhani Biryani
+Chicken Tikka Masala,Butter Chicken Biryani,Tandoori Chicken Wings,Prawn Balchao,Goan Fish Curry
+Chicken Biryani,Hyderabadi Chicken Dum Biryani,Butter Garlic Prawns,Amritsari Fish and Chips,Lamb Rogan Josh
+Dal Chawal Arancini,Mushroom Galouti,Dal Chawal Pakora,Tandoori Margherita Kulcha,Chole Kulcha Box
+Farzi Caesar Salad,Amritsari Chole Bhatture,Paneer Tikka Masala,Dal Makhani,Paneer Makhani Biryani
+Chicken Tikka Masala,Butter Chicken Biryani,Tandoori Chicken Wings,Prawn Balchao,Goan Fish Curry
+Chicken Biryani,Hyderabadi Chicken Dum Biryani,Butter Garlic Prawns,Amritsari Fish and Chips,Lamb Rogan Josh
+Dal Chawal Arancini,Mushroom Galouti,Dal Chawal Pakora,Tandoori Margherita Kulcha,Chole Kulcha Box
+Farzi Caesar Salad,Amritsari Chole Bhatture,Paneer Tikka Masala,Dal Makhani,Paneer Makhani Biryani
+Chicken Tikka Masala,Butter Chicken Biryani,Tandoori Chicken Wings,Prawn Balchao,Goan Fish Curry
+Chicken Biryani,Hyderabadi Chicken Dum Biryani,Butter Garlic Prawns,Amritsari Fish and Chips,Lamb Rogan Josh
+Dal Chawal Arancini,Mushroom Galouti,Dal Chawal Pakora,Tandoori Margherita Kulcha,Chole Kulcha Box
+Farzi Caesar Salad,Amritsari Chole Bhatture,Paneer Tikka Masala,Dal Makhani,Paneer Makhani Biryani
+Chicken Tikka Masala,Butter Chicken Biryani,Tandoori Chicken Wings,Prawn Balchao,Goan Fish Curry
+Chicken Biryani,Hyderabadi Chicken Dum Biryani,Butter Garlic Prawns,Amritsari Fish and Chips,Lamb Rogan Josh
+Dal Chawal Arancini,Mushroom Galouti,Dal Chawal Pakora,Tandoori Margherita Kulcha,Chole Kulcha Box
+Farzi Caesar Salad,Amritsari Chole Bhatture,Paneer Tikka Masala,Dal Makhani,Paneer Makhani Biryani
+Vegetable Spring Rolls,Stir-fried Tofu with Vegetables,Vegetable Manchurian,Paneer Butter Masala,Veg Biryani
+Palak Paneer,Paneer Tikka Masala,Veg Fried Rice,Garlic Naan,Chicken Manchow Soup
+Chilli Chicken,Chicken Tikka Masala,Chicken Fried Rice,Fish Curry,Prawn Masala
+Mutton Rogan Josh,Lamb Biryani,Tandoori Chicken,Fish Fry,Vegetable Spring Rolls
+Stir-fried Tofu with Vegetables,Vegetable Manchurian,Paneer Butter Masala,Veg Biryani,Palak Paneer
+Paneer Tikka Masala,Veg Fried Rice,Garlic Naan,Chicken Manchow Soup,Chilli Chicken
+Chicken Tikka Masala,Chicken Fried Rice,Fish Curry,Prawn Masala,Mutton Rogan Josh
+Lamb Biryani,Tandoori Chicken,Fish Fry,Vegetable Spring Rolls,Stir-fried Tofu with Vegetables
+Vegetable Manchurian,Paneer Butter Masala,Veg Biryani,Palak Paneer,Paneer Tikka Masala
+Veg Fried Rice,Garlic Naan,Chicken Manchow Soup,Chilli Chicken,Chicken Tikka Masala
+Chicken Fried Rice,Fish Curry,Prawn Masala,Mutton Rogan Josh,Lamb Biryani
+Tandoori Chicken,Fish Fry,Vegetable Spring Rolls,Stir-fried Tofu with Vegetables,Vegetable Manchurian
+Paneer Butter Masala,Veg Biryani,Palak Paneer,Paneer Tikka Masala,Veg Fried Rice
+Garlic Naan,Chicken Manchow Soup,Chilli Chicken,Chicken Tikka Masala,Chicken Fried Rice
+Fish Curry,Prawn Masala,Mutton Rogan Josh,Lamb Biryani,Tandoori Chicken
+Fish Fry,Vegetable Spring Rolls,Stir-fried Tofu with Vegetables,Vegetable Manchurian,Paneer Butter Masala
+Veg Biryani,Palak Paneer,Paneer Tikka Masala,Veg Fried Rice,Garlic Naan
+Chicken Manchow Soup,Chilli Chicken,Chicken Tikka Masala,Chicken Fried Rice,Fish Curry
+Prawn Masala,Mutton Rogan Josh,Lamb Biryani,Tandoori Chicken,Fish Fry
+Vegetable Spring Rolls,Stir-fried Tofu with Vegetables,Vegetable Manchurian,Paneer Butter Masala,Veg Biryani
+Palak Paneer,Paneer Tikka Masala,Veg Fried Rice,Garlic Naan,Chicken Manchow Soup
+Chilli Chicken,Chicken Tikka Masala,Chicken Fried Rice,Fish Curry,Prawn Masala
+Mutton Rogan Josh,Lamb Biryani,Tandoori Chicken,Fish Fry,Vegetable Spring Rolls
+Stir-fried Tofu with Vegetables,Vegetable Manchurian,Paneer Butter Masala,Veg Biryani,Palak Paneer
+Paneer Tikka Masala,Veg Fried Rice,Garlic Naan,Chicken Manchow Soup,Chilli Chicken
+Chicken Tikka Masala,Chicken Fried Rice,Fish Curry,Prawn Masala,Mutton Rogan Josh
+Lamb Biryani,Tandoori Chicken,Fish Fry,Vegetable Spring Rolls,Stir-fried Tofu with Vegetables
+Vegetable Manchurian,Paneer Butter Masala,Veg Biryani,Palak Paneer,Paneer Tikka Masala
+Veg Fried Rice,Garlic Naan,Chicken Manchow Soup,Chilli Chicken,Chicken Tikka Masala
+Chicken Fried Rice,Fish Curry,Prawn Masala,Mutton Rogan Josh,Lamb Biryani
+Tandoori Chicken,Fish Fry,Vegetable Spring Rolls,Stir-fried Tofu with Vegetables,Vegetable Manchurian
+Paneer Butter Masala,Veg Biryani,Palak Paneer,Paneer Tikka Masala,Veg Fried Rice
+Garlic Naan,Chicken Manchow Soup,Chilli Chicken,Chicken Tikka Masala,Chicken Fried Rice
+Fish Curry,Prawn Masala,Mutton Rogan Josh,Lamb Biryani,Tandoori Chicken
+Fish Fry,Vegetable Spring Rolls,Stir-fried Tofu with Vegetables,Vegetable Manchurian,Paneer Butter Masala
+Veg Biryani,Palak Paneer,Paneer Tikka Masala,Veg Fried Rice,Garlic Naan
+Chicken Manchow Soup,Chilli Chicken,Chicken Tikka Masala,Chicken Fried Rice,Fish Curry
+Prawn Masala,Mutton Rogan Josh,Lamb Biryani,Tandoori Chicken,Fish Fry
+Vegetable Pulao,Paneer Tikka,Veg Manchurian,Dal Tadka,Aloo Gobi Masala
+Palak Paneer,Veg Biryani,Butter Naan,Paneer Butter Masala,Veg Pizza
+Chicken Biryani,Butter Chicken,Chicken Tikka Masala,Chicken Curry,Fish Fry
+Prawn Masala,Mutton Biryani,Goan Fish Curry,Lamb Rogan Josh,Tandoori Chicken
+Vegetable Pulao,Paneer Tikka,Veg Manchurian,Dal Tadka,Aloo Gobi Masala
+Palak Paneer,Veg Biryani,Butter Naan,Paneer Butter Masala,Veg Pizza
+Chicken Biryani,Butter Chicken,Chicken Tikka Masala,Chicken Curry,Fish Fry
+Prawn Masala,Mutton Biryani,Goan Fish Curry,Lamb Rogan Josh,Tandoori Chicken
+Vegetable Pulao,Paneer Tikka,Veg Manchurian,Dal Tadka,Aloo Gobi Masala
+Palak Paneer,Veg Biryani,Butter Naan,Paneer Butter Masala,Veg Pizza
+Chicken Biryani,Butter Chicken,Chicken Tikka Masala,Chicken Curry,Fish Fry
+Prawn Masala,Mutton Biryani,Goan Fish Curry,Lamb Rogan Josh,Tandoori Chicken
+Vegetable Pulao,Paneer Tikka,Veg Manchurian,Dal Tadka,Aloo Gobi Masala
+Palak Paneer,Veg Biryani,Butter Naan,Paneer Butter Masala,Veg Pizza
+Chicken Biryani,Butter Chicken,Chicken Tikka Masala,Chicken Curry,Fish Fry
+Prawn Masala,Mutton Biryani,Goan Fish Curry,Lamb Rogan Josh,Tandoori Chicken
+Vegetable Pulao,Paneer Tikka,Veg Manchurian,Dal Tadka,Aloo Gobi Masala
+Palak Paneer,Veg Biryani,Butter Naan,Paneer Butter Masala,Veg Pizza
+Chicken Biryani,Butter Chicken,Chicken Tikka Masala,Chicken Curry,Fish Fry
+Prawn Masala,Mutton Biryani,Goan Fish Curry,Lamb Rogan Josh,Tandoori Chicken
+Vegetable Pulao,Paneer Tikka,Veg Manchurian,Dal Tadka,Aloo Gobi Masala
+Palak Paneer,Veg Biryani,Butter Naan,Paneer Butter Masala,Veg Pizza
+Chicken Biryani,Butter Chicken,Chicken Tikka Masala,Chicken Curry,Fish Fry
+Prawn Masala,Mutton Biryani,Goan Fish Curry,Lamb Rogan Josh,Tandoori Chicken
+Vegetable Pulao,Paneer Tikka,Veg Manchurian,Dal Tadka,Aloo Gobi Masala
+Palak Paneer,Veg Biryani,Butter Naan,Paneer Butter Masala,Veg Pizza
+Chicken Biryani,Butter Chicken,Chicken Tikka Masala,Chicken Curry,Fish Fry
+Prawn Masala,Mutton Biryani,Goan Fish Curry,Lamb Rogan Josh,Tandoori Chicken
+Vegetable Pulao,Paneer Tikka,Veg Manchurian,Dal Tadka,Aloo Gobi Masala
+Palak Paneer,Veg Biryani,Butter Naan,Paneer Butter Masala,Veg Pizza
+Chicken Biryani,Butter Chicken,Chicken Tikka Masala,Chicken Curry,Fish Fry
+Prawn Masala,Mutton Biryani,Goan Fish Curry,Lamb Rogan Josh,Tandoori Chicken
+Butter Chicken,Paneer Tikka Masala,Chicken Biryani,Dal Makhani,Tandoori Chicken
+Palak Paneer,Fish Curry,Aloo Gobi,Chicken Tikka,Chole Bhature
+Mutton Rogan Josh,Vegetable Biryani,Keema Naan,Veg Pulao,Butter Naan
+Chicken Korma,Veg Kofta Curry,Egg Fried Rice,Shahi Paneer,Tandoori Roti
+Butter Chicken,Paneer Tikka Masala,Chicken Biryani,Dal Makhani,Tandoori Chicken
+Palak Paneer,Fish Curry,Aloo Gobi,Chicken Tikka,Chole Bhature
+Mutton Rogan Josh,Vegetable Biryani,Keema Naan,Veg Pulao,Butter Naan
+Chicken Korma,Veg Kofta Curry,Egg Fried Rice,Shahi Paneer,Tandoori Roti
+Butter Chicken,Paneer Tikka Masala,Chicken Biryani,Dal Makhani,Tandoori Chicken
+Palak Paneer,Fish Curry,Aloo Gobi,Chicken Tikka,Chole Bhature
+Mutton Rogan Josh,Vegetable Biryani,Keema Naan,Veg Pulao,Butter Naan
+Chicken Korma,Veg Kofta Curry,Egg Fried Rice,Shahi Paneer,Tandoori Roti
+Butter Chicken,Paneer Tikka Masala,Chicken Biryani,Dal Makhani,Tandoori Chicken
+Palak Paneer,Fish Curry,Aloo Gobi,Chicken Tikka,Chole Bhature
+Mutton Rogan Josh,Vegetable Biryani,Keema Naan,Veg Pulao,Butter Naan
+Chicken Korma,Veg Kofta Curry,Egg Fried Rice,Shahi Paneer,Tandoori Roti
+Veg Manchow Soup,Crispy Corn,Paneer 65,Mushroom Tikka,Veg Spring Rolls
+Hakka Noodles,Paneer Butter Masala,Veg Biryani,Chilli Paneer,Vegetable Fried Rice
+Chicken Manchow Soup,Chilli Chicken,Chicken Tikka,Chicken Spring Rolls,Chicken Fried Rice
+Mutton Rogan Josh,Fish Curry,Prawn Masala,Goan Fish Fry,Mutton Biryani
+Veg Manchow Soup,Crispy Corn,Paneer 65,Mushroom Tikka,Veg Spring Rolls
+Hakka Noodles,Paneer Butter Masala,Veg Biryani,Chilli Paneer,Vegetable Fried Rice
+Chicken Manchow Soup,Chilli Chicken,Chicken Tikka,Chicken Spring Rolls,Chicken Fried Rice
+Mutton Rogan Josh,Fish Curry,Prawn Masala,Goan Fish Fry,Mutton Biryani
+Veg Manchow Soup,Crispy Corn,Paneer 65,Mushroom Tikka,Veg Spring Rolls
+Mutton Rogan Josh,Fish Curry,Prawn Masala,Goan Fish Fry,Mutton Biryani
+Veg Manchow Soup,Crispy Corn,Paneer 65,Mushroom Tikka,Veg Spring Rolls
+Hakka Noodles,Paneer Butter Masala,Veg Biryani,Chilli Paneer,Vegetable Fried Rice
+Chicken Manchow Soup,Chilli Chicken,Chicken Tikka,Chicken Spring Rolls,Chicken Fried Rice
+Mutton Rogan Josh,Fish Curry,Prawn Masala,Goan Fish Fry,Mutton Biryani
+Veg Manchow Soup,Crispy Corn,Paneer 65,Mushroom Tikka,Veg Spring Rolls
+Hakka Noodles,Paneer Butter Masala,Veg Biryani,Chilli Paneer,Vegetable Fried Rice
+Chicken Manchow Soup,Chilli Chicken,Chicken Tikka,Chicken Spring Rolls,Chicken Fried Rice
+Mutton Rogan Josh,Fish Curry,Prawn Masala,Goan Fish Fry,Mutton Biryani
+Veg Manchow Soup,Crispy Corn,Paneer 65,Mushroom Tikka,Veg Spring Rolls
+Hakka Noodles,Paneer Butter Masala,Veg Biryani,Chilli Paneer,Vegetable Fried Rice
+Chicken Manchow Soup,Chilli Chicken,Chicken Tikka,Chicken Spring Rolls,Chicken Fried Rice
+Mutton Rogan Josh,Fish Curry,Prawn Masala,Goan Fish Fry,Mutton Biryani
+Veg Manchow Soup,Crispy Corn,Paneer 65,Mushroom Tikka,Veg Spring Rolls
+Hakka Noodles,Paneer Butter Masala,Veg Biryani,Chilli Paneer,Vegetable Fried Rice
+Chicken Manchow Soup,Chilli Chicken,Chicken Tikka,Chicken Spring Rolls,Chicken Fried Rice
+Mutton Rogan Josh,Fish Curry,Prawn Masala,Goan Fish Fry,Mutton Biryani
+Veggie Delight,Italian B.M.T.,Subway Club,Spicy Veggie,BBQ Tofu
+Veggie Delight Salad,Southwest Black Bean Salad,Greek Salad,Potato Chips,Cookies (Chocolate Chip)
+Apple Slices,Veggie Patty,Paneer Tikka,Tandoori Chicken,Roast Beef
+Meatball Marinara,Chicken Teriyaki,Egg Salad,Turkey Breast,Veggie Delight Wrap
+Veggie Delight,Italian B.M.T.,Subway Club,Spicy Veggie,BBQ Tofu
+Veggie Delight Salad,Southwest Black Bean Salad,Greek Salad,Potato Chips,Cookies (Chocolate Chip)
+Apple Slices,Veggie Patty,Paneer Tikka,Tandoori Chicken,Roast Beef
+Meatball Marinara,Chicken Teriyaki,Egg Salad,Turkey Breast,Veggie Delight Wrap
+Veggie Delight,Italian B.M.T.,Subway Club,Spicy Veggie,BBQ Tofu
+Veggie Delight Salad,Southwest Black Bean Salad,Greek Salad,Potato Chips,Cookies (Chocolate Chip)
+Apple Slices,Veggie Patty,Paneer Tikka,Tandoori Chicken,Roast Beef
+Meatball Marinara,Chicken Teriyaki,Egg Salad,Turkey Breast,Veggie Delight Wrap
+Veggie Delight,Italian B.M.T.,Subway Club,Spicy Veggie,BBQ Tofu
+Veggie Delight Salad,Southwest Black Bean Salad,Greek Salad,Potato Chips,Cookies (Chocolate Chip)
+Apple Slices,Veggie Patty,Paneer Tikka,Tandoori Chicken,Roast Beef
+Meatball Marinara,Chicken Teriyaki,Egg Salad,Turkey Breast,Veggie Delight Wrap
+Veggie Delight,Italian B.M.T.,Subway Club,Spicy Veggie,BBQ Tofu
+Veggie Delight Salad,Southwest Black Bean Salad,Greek Salad,Potato Chips,Cookies (Chocolate Chip)
+Apple Slices,Veggie Patty,Paneer Tikka,Tandoori Chicken,Roast Beef
+Meatball Marinara,Chicken Teriyaki,Egg Salad,Turkey Breast,Veggie Delight Wrap
+Veggie Delight,Italian B.M.T.,Subway Club,Spicy Veggie,BBQ Tofu
+Veggie Delight Salad,Southwest Black Bean Salad,Greek Salad,Potato Chips,Cookies (Chocolate Chip)
+Apple Slices,Veggie Patty,Paneer Tikka,Tandoori Chicken,Roast Beef
+Meatball Marinara,Chicken Teriyaki,Egg Salad,Turkey Breast,Veggie Delight Wrap
+Veggie Delight,Italian B.M.T.,Subway Club,Spicy Veggie,BBQ Tofu
+Veggie Delight Salad,Southwest Black Bean Salad,Greek Salad,Potato Chips,Cookies (Chocolate Chip)
+Apple Slices,Veggie Patty,Paneer Tikka,Tandoori Chicken,Roast Beef
+Meatball Marinara,Chicken Teriyaki,Egg Salad,Turkey Breast,Veggie Delight Wrap
+Veggie Delight,Italian B.M.T.,Subway Club,Spicy Veggie,BBQ Tofu
+Veggie Delight Salad,Southwest Black Bean Salad,Greek Salad,Potato Chips,Cookies (Chocolate Chip)
+Apple Slices,Veggie Patty,Paneer Tikka,Tandoori Chicken,Roast Beef
+Meatball Marinara,Chicken Teriyaki,Egg Salad,Turkey Breast,Veggie Delight Wrap
+Pad Thai Noodles,Chicken Satay
+Chicken Fried Rice,Chicken Fried Rice,Chicken Fried Rice,Mutton Biryani
+Apple Pie,Apple Pie,Classic Chicken Sandwich,Classic Chicken Sandwich
+Vegetable Spring Onion Pancake,Vegetable Spring Onion Pancake,Chicken Teriyaki,Chicken Teriyaki,Vegetable Spring Rolls
+Veg Biryani,Veg Biryani
+Margherita Pizza (Regular),Margherita Pizza (Regular)
+Butter Chicken,Butter Chicken
+Margherita Pizza (Regular)
+Margherita Pizza (Regular),Margherita Pizza (Regular)
+Chicken Biryani,Chicken Biryani
+Margherita Pizza (Regular)
+Vegetable Spring Rolls
+Vegetable Spring Rolls
+Vegetable Spring Rolls,Vegetable Spring Rolls
+Mutton Rogan Josh,Mutton Rogan Josh
+Chicken Satay,Chicken Satay
+Vanilla Ice Cream Scoop
+Vegetable Spring Rolls
+Margherita Pizza (Regular)
+Vegetable Spring Rolls
+Paneer Tikka Pizza (Regular),Paneer Tikka Pizza (Regular)
+Crispy Corn,Crispy Corn,Crispy Corn,Crispy Corn
+Vegetable Spring Rolls
+Butter Chicken,Butter Chicken
+Margherita Pizza (Regular)
+Americano
+Espresso
+Egg Biryani,Egg Biryani
+Margherita Pizza (Regular)
+Spicy Chicken Sandwich,Spicy Chicken Sandwich,Spicy Chicken Sandwich
+Cajun Fish Combo,Cajun Fish Combo
+Paneer Tikka Masala,Paneer Tikka Masala
+Egg Biryani,Egg Biryani
+Farmhouse Pizza (Regular),Farmhouse Pizza (Regular),Farmhouse Pizza (Regular)
+Farmhouse Pizza (Regular)
+Paneer Tikka Pizza (Regular)
+Margherita Pizza (Regular)
+Paneer Overloaded Pizza (Regular),Paneer Overloaded Pizza (Regular)
+Espresso,Espresso
+Margherita Pizza (Regular)
+Margherita Pizza (Regular)
+Whopper Burger,Whopper Burger
+Veggie Supreme Pizza (Regular),Veggie Supreme Pizza (Regular),Veggie Supreme Pizza (Regular),Veggie Supreme Pizza (Regular),Veggie Supreme Pizza (Regular)
+Butter Chicken,Butter Chicken,Butter Chicken
+Dal Makhani,Dal Makhani,Dal Makhani,Dal Makhani,Dal Makhani,Dal Makhani,Dal Makhani,Dal Makhani,Dal Makhani,Dal Makhani
+Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar,Idli Sambhar
+Mutton Biryani,Mutton Biryani,Mutton Biryani,Mutton Biryani,Mutton Biryani,Mutton Biryani,Mutton Biryani,Mutton Biryani,Mutton Biryani,Mutton Biryani,Mutton Biryani,Mutton Biryani
+Egg Kothu Parotta,Egg Kothu Parotta,Egg Kothu Parotta,Egg Kothu Parotta,Egg Kothu Parotta,Parotta,Parotta,Parotta,Parotta,Parotta
+Egg Kothu Parotta,Egg Kothu Parotta
+Egg Kothu Parotta,Egg Kothu Parotta,Egg Kothu Parotta,Idiyappam
+Chocolate Custard Filled Doughnut,Chocolate Custard Filled Doughnut,Chocolate Custard Filled Doughnut,Chocolate Custard Filled Doughnut,Chocolate Custard Filled Doughnut,Kreme Filled Doughnut,Kreme Filled Doughnut,Kreme Filled Doughnut
+Apple Cinnamon Filled Doughnut,Apple Cinnamon Filled Doughnut,Apple Cinnamon Filled Doughnut,Apple Cinnamon Filled Doughnut,Chocolate Custard Filled Doughnut,Chocolate Custard Filled Doughnut,Chocolate Custard Filled Doughnut,Chocolate Custard Filled Doughnut
+Caramel Glazed Doughnut,Caramel Glazed Doughnut,Caramel Glazed Doughnut
+Mutton Biryani,Mutton Biryani
+Apple Cinnamon Filled Doughnut,Apple Cinnamon Filled Doughnut,Apple Cinnamon Filled Doughnut,Chocolate Custard Filled Doughnut,Chocolate Custard Filled Doughnut
+Bubblegum Ice Cream Scoop,Bubblegum Ice Cream Scoop
+Chocolate Iced with Sprinkles Doughnut,Chocolate Iced with Sprinkles Doughnut,Chocolate Iced with Sprinkles Doughnut,Classic Original Filled Doughnut,Classic Original Filled Doughnut,Classic Original Filled Doughnut,Classic Original Filled Doughnut

@@ -1,0 +1,21 @@
+Id,Item,Price,Type,Quantity
+1,Veggie Delight,250,Veg,50
+2,Italian B.M.T.,290,Non-Veg,60
+3,Subway Club,310,Non-Veg,70
+4,Spicy Veggie,270,Veg,40
+5,BBQ Tofu,290,Veg,56
+6,Veggie Delight Salad,290,Veg,78
+7,Southwest Black Bean Salad,310,Veg,43
+8,Greek Salad,330,Veg,65
+9,Potato Chips,50,Veg,78
+10,Cookies (Chocolate Chip),40,Veg,98
+11,Apple Slices,60,Veg,55
+12,Veggie Patty,270,Veg,43
+13,Paneer Tikka,300,Veg,45
+15,Tandoori Chicken,320,Non-Veg,67
+15,Roast Beef,330,Non-Veg,87
+16,Meatball Marinara,300,Non-Veg,45
+17,Chicken Teriyaki,320,Non-Veg,67
+18,Egg Salad,280,Veg,43
+19,Turkey Breast,310,Non-Veg,65
+20,Veggie Delight Wrap,260,Veg,65

@@ -1,0 +1,21 @@
+Id,Item,Price,Veg/Non-Veg,Quantity
+1,Classic Chicken Sandwich,200,Non-Veg,48
+2,Spicy Chicken Sandwich,220,Non-Veg,53
+3,Chicken Tenders (3 pcs),250,Non-Veg,67
+4,Chicken Tenders (5 pcs),350,Non-Veg,40
+5,Cajun Fries (Regular),100,Veg,51
+6,Buttermilk Biscuit,50,Veg,76
+7,Louisiana Chicken Combo (2 pcs),350,Non-Veg,43
+8,Louisiana Chicken Combo (3 pcs),450,Non-Veg,65
+9,Cajun Fish Sandwich,220,Non-Veg,78
+10,Cajun Fish Combo,400,Non-Veg,98
+11,Shrimp Combo,400,Non-Veg,55
+12,Chicken Waffle Tenders (3 pcs),280,Non-Veg,43
+13,Chicken Waffle Tenders (5 pcs),400,Non-Veg,45
+14,Red Beans & Rice (Regular),150,Veg,67
+15,Coleslaw (Regular),100,Veg,84
+16,Mashed Potatoes with Cajun Gravy (Regular),120,Veg,45
+17,Cajun Rice (Regular),130,Veg,63
+18,Apple Pie,80,Veg,41
+19,Chocolate Beignets,120,Veg,65
+20,Sweet Heat Sauce,20,Veg,65

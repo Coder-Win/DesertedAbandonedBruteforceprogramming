@@ -1,0 +1,21 @@
+Id,Item,Price,Veg/Non-Veg,Quantity
+1,Margherita Pizza (Regular),200,Veg,50
+2,Farmhouse Pizza (Regular),250,Veg,60
+3,Paneer Tikka Pizza (Regular),280,Veg,70
+4,Veggie Supreme Pizza (Regular),270,Veg,40
+5,Chicken Supreme Pizza (Regular),320,Non-Veg,56
+6,Chicken Tikka Pizza (Regular),300,Non-Veg,78
+7,Ultimate Chicken Pizza (Regular),350,Non-Veg,43
+8,Pepperoni Pizza (Regular),290,Non-Veg,65
+9,Exotica Pizza (Regular),300,Veg,78
+10,Spicy Veggie Pizza (Regular),260,Veg,98
+11,Triple Chicken Feast Pizza (Regular),330,Non-Veg,55
+12,Paneer Overloaded Pizza (Regular),350,Veg,43
+13,Veggie Lovers Pizza (Regular),270,Veg,45
+14,Tandoori Paneer Pizza (Regular),290,Veg,67
+15,Chicken Sausage Pizza (Regular),310,Non-Veg,87
+16,Classic Corn Pizza (Regular),250,Veg,45
+17,Veggie Paradise Pizza (Regular),280,Veg,67
+18,Chicken Overloaded Pizza (Regular),340,Non-Veg,43
+19,BBQ Chicken Pizza (Regular),320,Non-Veg,65
+20,Spicy Chicken Pizza (Regular),310,Non-Veg,65

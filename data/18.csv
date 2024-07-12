@@ -1,0 +1,21 @@
+Id,Item,Price,Type,Quantity
+1,Paneer Tikka,250,Veg,50
+2,Veg Seekh Kebab,200,Veg,55
+3,Tandoori Mushroom,220,Veg,65
+4,Corn on the Cob,180,Veg,40
+5,Grilled Pineapple,150,Veg,51
+6,Veg Platter,350,Veg,78
+7,Chicken Tikka,300,Non Veg,43
+8,Mutton Seekh Kebab,350,Non Veg,65
+9,Tandoori Prawns,400,Non-Veg,78
+10,Fish Amritsari,380,Non-Veg,98
+11,Barbeque Chicken Wings,320,Non-Veg,55
+12,Fish Tikka,380,Non-Veg,43
+13,Butter Garlic Prawns,420,Non-Veg,45
+15,Chilli Garlic Fish,380,Non-Veg,67
+15,Chicken Platter,450,Non-Veg,87
+16,BBQ Chicken Pizza,300,Non-Veg,45
+17,Paneer Shashlik,280,Veg,65
+18,Cajun Spiced Potato Wedges,180,Veg,43
+19,Grilled Corn and Spinach Quesadillas,220,Veg,65
+20,Peri Peri Chicken,380,Non-Veg,65

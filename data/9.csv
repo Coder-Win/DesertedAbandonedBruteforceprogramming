@@ -1,0 +1,21 @@
+Id,Item,Price,Veg/Non-Veg,Quantity
+1,Chicken Biryani,280,Non-Veg,50
+2,Mutton Biryani,320,Non-Veg,58
+3,Vegetable Biryani,220,Veg,70
+4,Egg Biryani,240,Non-Veg,40
+5,Prawn Biryani,350,Non-Veg,56
+6,Chicken 65,180,Non-Veg,78
+7,Mutton Chukka,300,Non-Veg,43
+8,Veg Kurma,150,Veg,65
+9,Chicken Gravy,200,Non-Veg,78
+10,Mutton Sukka,320,Non-Veg,98
+11,Egg Masala,160,Non-Veg,55
+12,Paneer Butter Masala,220,Veg,43
+13,Parotta,40,Veg,45
+14,Idiyappam,50,Veg,67
+15,Egg Kothu Parotta,120,Non-Veg,87
+16,Chicken Noodles,180,Non-Veg,45
+17,Mutton Noodles,220,Non-Veg,67
+18,Vegetable Fried Rice,140,Veg,43
+19,Chicken Fried Rice,180,Non-Veg,65
+20,Fish Curry,250,Non-Veg,65

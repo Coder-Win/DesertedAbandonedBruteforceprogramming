@@ -1,0 +1,21 @@
+Id,Item,Price,Type,Quantity
+1,Vegetable Pulao,250,Veg,27
+2,Paneer Tikka,320,Veg,50
+3,Veg Manchurian,280,Veg,70
+4,Dal Tadka,240,Veg,40
+5,Aloo Gobi Masala,260,Veg,56
+6,Palak Paneer,300,Veg,68
+7,Veg Biryani,320,Veg,43
+8,Butter Naan,40,Veg,65
+9,Paneer Butter Masala,340,Veg,78
+10,Veg Pizza,350,Veg,98
+11,Chicken Biryani,380,Non Veg,55
+12,Butter Chicken,400,Non Veg,29
+13,Chicken Tikka Masala,420,Non Veg,45
+14,Chicken Curry,360,Non Veg,73
+15,Fish Fry,320,Non Veg,87
+16,Prawn Masala,450,Non Veg,45
+17,Mutton Biryani,480,Non Veg,67
+18,Goan Fish Curry,420,Non Veg,43
+19,Lamb Rogan Josh,450,Non Veg,65
+20,Tandoori Chicken,400,Non Veg,65

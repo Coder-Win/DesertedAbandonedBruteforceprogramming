@@ -1,0 +1,22 @@
+Id,Item,Price,Type,Quantity
+1,Veg Manchow Soup,180,Veg,50
+2,Crispy Corn,200,Veg,60
+3,Paneer 65,220,Veg,70
+4,Mushroom Tikka,240,Veg,30
+5,Veg Spring Rolls,220,Veg,56
+6,Hakka Noodles,280,Veg,78
+7,Paneer Butter Masala,320,Veg,43
+8,Veg Biryani,340,Veg,65
+9,Chilli Paneer,300,Veg,78
+10,Vegetable Fried Rice,280,Veg,98
+11,Chicken Manchow Soup,220,Non-Veg,55
+12,Chilli Chicken,320,Non-Veg,43
+13,Chicken Tikka,340,Non-Veg,45
+15,Chicken Spring Rolls,320,Non-Veg,67
+15,Chicken Fried Rice,360,Non Veg,87
+16,Mutton Rogan Josh,420,Non-Veg,45
+17,Fish Curry,380,Non-Veg,67
+18,Prawn Masala,400,Non-Veg,43
+19,Goan Fish Fry,360,Non-Veg,65
+20,Mutton Biryani,450,Non-Veg,53
+

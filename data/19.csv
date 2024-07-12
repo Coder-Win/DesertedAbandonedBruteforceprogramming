@@ -1,0 +1,21 @@
+Id,Item,Price,Type,Quantity
+1,Original Recipe Chicken,449.25,Non-Veg,50
+2,Extra Crispy Chicken,486.75,Non-Veg,60
+3,Chicken Tenders (3 Piece),374.25,Non-Veg,70
+4,Popcorn Chicken (Small),299.25,Non-Veg,40
+5,Chicken Wings (6 Piece),674.25,Non-Veg,56
+6,Twister Wrap (Grilled),336.75,Veg,78
+7,Zinger Burger,411.75,Non-Veg,43
+8,Veggie Burger,374.25,Veg,65
+9,Mashed Potatoes (Regular),186.75,Veg,78
+10,Coleslaw (Regular),149.25,Veg,95
+11,Famous Bowl,449.25,Non Veg,55
+12,Pot Pie,299.25,Non-Veg,43
+13,Chicken Little,149.25,Non-Veg,45
+15,Original Recipe Fries (Regular),149.25,Veg,67
+15,Hot Wings (6 Piece),524.25,Non-Veg,87
+16,Mac & Cheese (Regular),186.75,Veg,45
+17,Chicken Sandwich,374.25,Non Veg,67
+18,Corn on the Cob,111.75,Veg,43
+19,Chicken Littles (12 Piece),1499.25,Non-Veg,65
+20,Soft Drink (Medium),134.25,Veg,65

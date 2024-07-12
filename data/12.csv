@@ -1,0 +1,21 @@
+Id,Item,Price,Veg/Non-Veg,Quantity
+1,Bean Burrito,80,Veg,50
+2,Cheesy Potato Griller,70,Veg,56
+3,Mexican Paneer Taco,90,Veg,60
+4,Veggie Quesadilla,100,Veg,40
+5,Chicken Quesadilla,120,Non-Veg,56
+6,Grilled Chicken Burrito,110,Non-Veg,78
+7,Crunchy Taco,60,Non-Veg,43
+8,Nacho Cheese Doritos Locos Tacos,90,Non-Veg,65
+9,Mexican Rice Bowl,100,Veg,78
+10,Chalupa Supreme,130,Non-Veg,98
+11,Cheesy Fiesta Potatoes,80,Veg,55
+12,Mexican Paneer Chalupa,110,Veg,43
+13,Fajita Chicken Burrito,120,Non-Veg,45
+14,Nacho Fries,50,Veg,67
+15,Mexican Paneer Burrito,100,Veg,87
+16,Beefy Nachos Griller,90,Non-Veg,45
+17,Chalupa Cravings Box,200,Non-Veg,67
+18,Chicken Quesarito,130,Non-Veg,43
+19,Veggie Power Menu Bowl,110,Veg,65
+20,Cinnamon Twists,40,Veg,65
